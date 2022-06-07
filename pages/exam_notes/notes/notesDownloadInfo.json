@@ -5,61 +5,71 @@
         "fileName": "Something_1.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || Reasoning Notes || 10 Min || 06 Jun 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_2.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || English Notes || 10 Min || 04 Jun 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_3.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || GK Notes || 10 Min || 31 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_4.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || Current Affairs || 10 Min || 24 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_5.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || English Notes || 10 Min || 21 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_6.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || Current Affairs || 10 Min || 14 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_7.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || English Notes || 10 Min || 13 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_8.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || Reasoning Notes || 10 Min || 12 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_9.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || GK Notes || 10 Min || 1 May 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       },
       {
         "fileName": "Something_10.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || QA Notes || 10 Min || 30 Apr 22",
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly"
+        "type" : "weekly",
+        "isDownloaded": false
       }
     ]
   }
