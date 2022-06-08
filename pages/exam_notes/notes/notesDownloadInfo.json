@@ -1,5 +1,15 @@
 {
     "items": [
+      
+      {
+        "fileName": "Something_11.pdf",
+        "fileDesc": "SSC CGL || SSC CHSL || Reasoning Notes || 10 Min || 08 Jun 22",
+        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
+        "type" : "weekly",
+        "isDownloaded": false,
+        "downloadProgress": 0,
+        "downloading": false
+      },
       {
         "fileName": "Something_1.pdf",
         "fileDesc": "SSC CGL || SSC CHSL || Reasoning Notes || 10 Min || 06 Jun 22",
