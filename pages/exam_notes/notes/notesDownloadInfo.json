@@ -6,7 +6,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": true,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_2.pdf",
@@ -14,7 +15,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_3.pdf",
@@ -22,7 +24,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_4.pdf",
@@ -30,7 +33,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_5.pdf",
@@ -38,7 +42,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_6.pdf",
@@ -46,7 +51,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_7.pdf",
@@ -54,7 +60,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_8.pdf",
@@ -62,7 +69,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_9.pdf",
@@ -70,7 +78,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       },
       {
         "fileName": "Something_10.pdf",
@@ -78,7 +87,8 @@
         "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
         "type" : "weekly",
         "isDownloaded": false,
-        "downloadProgress": 0
+        "downloadProgress": 0,
+        "downloading": true
       }
     ]
   }
