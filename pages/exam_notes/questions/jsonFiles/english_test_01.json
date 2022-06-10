@@ -1,0 +1,230 @@
+{
+    "type" : "GK",
+    "yourScore": null,
+    "attempted": null,
+    "correct": null,
+    "wrong": null,
+    "notAttempted": null,
+    "total": null,
+    "percentage": null,
+    "time": null,
+    "timeTaken": null,
+    "timeRemaining": null,
+    "timeRemainingInSec": null,
+    "timeRemainingInMin": null,
+    "timeRemainingInHr": null,
+    "timeRemainingInDays": null,
+    "timeRemainingInWeeks": null,
+    "timeRemainingInMonths": null,
+    "timeRemainingInYears": null,
+    "timeRemainingInDecades": null,
+    "timeRemainingInCenturies": null,
+    "timeRemainingInMillennia": null,
+    "timeRemainingInFutures": null,
+    "timeRemainingInFuturesInSec": null,
+    "timeRemainingInFuturesInMin": null,
+    "questions": [
+        {
+            "question": "What is the capital of India?",
+            "options": [
+                "New Delhi",
+                "Mumbai",
+                "Chennai",
+                "Kolkata"
+            ],
+            "answer": "New Delhi"
+        },
+        {
+            "question": "What is the capital of Pakistan?",
+            "options": [
+                "Islamabad",
+                "Karachi",
+                "Lahore",
+                "Faisalabad"
+            ],
+            "answer": "Islamabad"
+        },
+        {
+            "question": "What is the capital of Bangladesh?",
+            "options": [
+                "Dhaka",
+                "Chittagong",
+                "Sylhet",
+                "Rajshahi"
+            ],
+            "answer": "Dhaka"
+        },
+        {
+            "question": "What is the capital of Nepal?",
+            "options": [
+                "Kathmandu",
+                "Pokhara",
+                "Lalitpur",
+                "Bhaktapur"
+            ],
+            "answer": "Kathmandu"
+        },
+        {
+            "question": "What is the capital of Bangladesh?",
+            "options": [
+                "Dhaka",
+                "Chittagong",
+                "Sylhet",
+                "Rajshahi"
+            ],
+            "answer": "Dhaka"
+        },
+        {
+            "question": "What is the capital of Bangladesh?",
+            "options": [
+                "Dhaka",
+                "Chittagong",
+                "Sylhet",
+                "Rajshahi"
+            ],
+            "answer": "Dhaka"
+        },
+        {
+            "question": "What is the capital of Bangladesh?",
+            "options": [
+                "Dhaka",
+                "Chittagong",
+                "Sylhet",
+                "Rajshahi"
+            ],
+            "answer": "Dhaka"
+        },
+        {
+            "question": "What is the capital of United States?",
+            "options": [
+                "Washington",
+                "New York",
+                "Los Angeles",
+                "Chicago"
+            ],
+            "answer": "Washington"
+        },
+        {
+            "question": "What is the capital of United Kingdom?",
+            "options": [
+                "London",
+                "Manchester",
+                "Liverpool",
+                "Birmingham"
+            ],
+            "answer": "London"
+
+        },
+        {
+            "question": "What is the capital of China?",
+            "options": [
+                "Beijing",
+                "Shanghai",
+                "Tianjin",
+                "Wuhan"
+            ],
+            "answer": "Beijing"
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "options": [
+                "Tokyo",
+                "Osaka",
+                "Kyoto",
+                "Nagoya"
+            ],  
+            "answer": "Tokyo"
+        },
+        {
+            "question": "What is the capital of South Korea?",
+            "options": [
+                "Seoul",
+                "Busan",
+                "Daegu",
+                "Incheon"
+            ],  
+            "answer": "Seoul"
+        },
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "Paris",
+                "Lyon",
+                "Marseille",
+                "Toulouse"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Venice",
+                "Naples"
+            ],
+            "answer": "Rome"
+        },
+        {
+            "question": "What is the capital of Germany?",
+            "options": [
+                "Berlin",
+                "Munich",
+                "Frankfurt",
+                "Hamburg"
+            ],
+            "answer": "Berlin"
+        },
+        {
+            "question": "What is the capital of Austria?",
+            "options": [
+                "Vienna",
+                "Salzburg",
+                "Graz",
+                "Linz"
+            ],
+            "answer": "Vienna"
+        },
+        {
+            "question": "What is the capital of Switzerland?",
+            "options": [
+                "Bern",
+                "Zurich",
+                "Lausanne",
+                "Geneva"
+            ],
+            "answer": "Bern"
+
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Brisbane",
+                "Perth"
+            ],
+            "answer": "Sydney"
+        },
+        {
+            "question": "What is the capital of New Zealand?",
+            "options": [
+                "Wellington",
+                "Auckland",
+                "Christchurch",
+                "Dunedin"
+            ],
+            "answer": "Wellington"
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": [
+                "Ottawa",
+                "Toronto",
+                "Montreal",
+                "Vancouver"
+            ],
+            "answer": "Ottawa"
+        }
+    ]
+}
