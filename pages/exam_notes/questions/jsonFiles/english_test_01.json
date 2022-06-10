@@ -1,5 +1,6 @@
 {
     "type" : "GK",
+    "fileName": "GK Test 01",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -7,7 +8,7 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": null,
+    "time": 10,
     "timeTaken": null,
     "questions": [
         {
