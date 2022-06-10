@@ -10,6 +10,7 @@
     "percentage": null,
     "time": 10,
     "timeTaken": null,
+    "isSubmitted": false,
     "questions": [
         {
             "question": "What is the capital of India?",
@@ -19,6 +20,7 @@
                 "Chennai",
                 "Kolkata"
             ],
+            "userAnswer": null,
             "answer": "New Delhi"
         },
         {
@@ -29,6 +31,7 @@
                 "Lahore",
                 "Faisalabad"
             ],
+            "userAnswer": null,
             "answer": "Islamabad"
         },  
         {
@@ -39,6 +42,7 @@
                 "Sylhet",
                 "Rajshahi"
             ],
+            "userAnswer": null,
             "answer": "Dhaka"
         },
         {
@@ -49,6 +53,7 @@
                 "Lalitpur",
                 "Bhaktapur"
             ],
+            "userAnswer": null,
             "answer": "Kathmandu"
         },
         {
@@ -59,6 +64,7 @@
                 "Sylhet",
                 "Rajshahi"
             ],
+            "userAnswer": null,
             "answer": "Dhaka"
         },
         {
@@ -69,6 +75,7 @@
                 "Sylhet",
                 "Rajshahi"
             ],
+            "userAnswer": null,
             "answer": "Dhaka"
         },
         {
@@ -79,6 +86,7 @@
                 "Sylhet",
                 "Rajshahi"
             ],
+            "userAnswer": null,
             "answer": "Dhaka"
         },
         {
@@ -89,6 +97,7 @@
                 "Los Angeles",
                 "Chicago"
             ],
+            "userAnswer": null,
             "answer": "Washington"
         },
         {
@@ -99,6 +108,7 @@
                 "Liverpool",
                 "Birmingham"
             ],
+            "userAnswer": null,
             "answer": "London"
 
         },
@@ -110,6 +120,7 @@
                 "Tianjin",
                 "Wuhan"
             ],
+            "userAnswer": null,
             "answer": "Beijing"
         },
         {
@@ -120,6 +131,7 @@
                 "Kyoto",
                 "Nagoya"
             ],  
+            "userAnswer": null,
             "answer": "Tokyo"
         },
         {
@@ -130,6 +142,7 @@
                 "Daegu",
                 "Incheon"
             ],  
+            "userAnswer": null,
             "answer": "Seoul"
         },
         {
@@ -140,6 +153,7 @@
                 "Marseille",
                 "Toulouse"
             ],
+            "userAnswer": null,
             "answer": "Paris"
         },
         {
@@ -150,6 +164,7 @@
                 "Venice",
                 "Naples"
             ],
+            "userAnswer": null,
             "answer": "Rome"
         },
         {
@@ -160,6 +175,7 @@
                 "Frankfurt",
                 "Hamburg"
             ],
+            "userAnswer": null,
             "answer": "Berlin"
         },
         {
@@ -170,6 +186,7 @@
                 "Graz",
                 "Linz"
             ],
+            "userAnswer": null,
             "answer": "Vienna"
         },
         {
@@ -180,6 +197,7 @@
                 "Lausanne",
                 "Geneva"
             ],
+            "userAnswer": null,
             "answer": "Bern"
 
         },
@@ -191,6 +209,7 @@
                 "Brisbane",
                 "Perth"
             ],
+            "userAnswer": null,
             "answer": "Sydney"
         },
         {
@@ -201,6 +220,7 @@
                 "Christchurch",
                 "Dunedin"
             ],
+            "userAnswer": null,
             "answer": "Wellington"
         },
         {
@@ -211,6 +231,7 @@
                 "Montreal",
                 "Vancouver"
             ],
+            "userAnswer": null,
             "answer": "Ottawa"
         }
     ]
