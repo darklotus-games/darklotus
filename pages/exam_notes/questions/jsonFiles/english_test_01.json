@@ -22,17 +22,6 @@
             ],
             "userAnswer": null,
             "answer": "New Delhi"
-        },
-        {
-            "question": "What is the capital of Pakistan?",
-            "options": [
-                "Islamabad",
-                "Karachi",
-                "Lahore",
-                "Faisalabad"
-            ],
-            "userAnswer": null,
-            "answer": "Islamabad"
         },  
         {
             "question": "What is the capital of Bangladesh?",
@@ -55,39 +44,6 @@
             ],
             "userAnswer": null,
             "answer": "Kathmandu"
-        },
-        {
-            "question": "What is the capital of Bangladesh?",
-            "options": [
-                "Dhaka",
-                "Chittagong",
-                "Sylhet",
-                "Rajshahi"
-            ],
-            "userAnswer": null,
-            "answer": "Dhaka"
-        },
-        {
-            "question": "What is the capital of Bangladesh?",
-            "options": [
-                "Dhaka",
-                "Chittagong",
-                "Sylhet",
-                "Rajshahi"
-            ],
-            "userAnswer": null,
-            "answer": "Dhaka"
-        },
-        {
-            "question": "What is the capital of Bangladesh?",
-            "options": [
-                "Dhaka",
-                "Chittagong",
-                "Sylhet",
-                "Rajshahi"
-            ],
-            "userAnswer": null,
-            "answer": "Dhaka"
         },
         {
             "question": "What is the capital of United States?",
