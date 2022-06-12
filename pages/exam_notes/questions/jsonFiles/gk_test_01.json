@@ -24,7 +24,7 @@
             "answer": "Rajendra Prasad"
         },
         {
-            "questions": "When did M. K. Gandhi arrive in Champaran?",
+            "question": "When did M. K. Gandhi arrive in Champaran?",
             "options": [
                 "April, 1915",
                 "April, 1916",
@@ -35,7 +35,7 @@
             "answer":  "April, 1917"
         },
         {
-            "questions": "Who among the following was the supreme commander of the army during Vedic period?",
+            "question": "Who among the following was the supreme commander of the army during Vedic period?",
             "options": [
                 "Senani",
                 "Vrajapati",
@@ -46,7 +46,7 @@
             "answer": "Senani"
         },
         {
-            "questions": "Shivalik Hills are part of which of the following?",
+            "question": "Shivalik Hills are part of which of the following?",
             "options": [
                 "Aravali",
                 "Western Ghats",
@@ -68,7 +68,7 @@
             "answer": "Uttarakhand"
         },
         {
-            "questions": "The Shivalik range was formed in which of the following period?",
+            "question": "The Shivalik range was formed in which of the following period?",
             "options": [
                 "Eozoic",
                 "Pliocene",
@@ -79,7 +79,7 @@
             "answer": "Pliocene"
         },
         {
-            "questions": "Udyam Sangam-2018 was organised by which Ministry?",
+            "question": "Udyam Sangam-2018 was organised by which Ministry?",
             "options": [
                 "Ministry of Micro, Small & Medium Enterprises",
                 "Ministry of Health and Family Welfare",
@@ -90,7 +90,7 @@
             "answer": "Ministry of Micro, Small & Medium Enterprises"
         },
         {
-            "questions": "India recently agreed to hold the first edition of naval exercise 'Coordinated Patrol (CORPAT)' with which neighbouring country?",
+            "question": "India recently agreed to hold the first edition of naval exercise 'Coordinated Patrol (CORPAT)' with which neighbouring country?",
             "options": [
                 "Bhutan",
                 "Nepal",
@@ -101,7 +101,7 @@
             "answer": "Bangladesh"
         },
         {
-            "questions": "The Financial Action Task Force has recently put which country on the 'grey list'?",
+            "question": "The Financial Action Task Force has recently put which country on the 'grey list'?",
             "options": [
                 "Pakistan",
                 "Iraq",
@@ -112,7 +112,7 @@
             "answer":  "Pakistan"
         },
         {
-            "questions": "What is the correct descending order on the basis of the number of sex ratio in the states?",
+            "question": "What is the correct descending order on the basis of the number of sex ratio in the states?",
             "options": [
                 "Kerala <Chhattisgarh <Mizoram <Andhra Pradesh",
                 "Arunachal Pradesh <Kerala <Manipur <Meghalaya",
@@ -123,7 +123,7 @@
             "answer": "Kerala <Tamil Nadu <Andhra Pradesh <Chhattisgarh"
         },
         {
-            "questions": "Which of the following statement is not correct about 'Bombay Plan'?",
+            "question": "Which of the following statement is not correct about 'Bombay Plan'?",
             "options": [
                 "The Bombay Plan is also called the 'Tata Bidla Plan'",
                 "It was started in 1944",
@@ -134,7 +134,7 @@
             "answer": "Its draft was prepared by the John Mathai"
         },
         {
-            "questions": "Which of the following statements is not correct?",
+            "question": "Which of the following statements is not correct?",
             "options": [
                 "There is no constitutional provision in India about the Planning Commission",
                 "Planning commission was established in January 1951",
@@ -145,7 +145,7 @@
             "answer": "Planning commission was established in January 1951"
         },
         {
-            "questions": "Who started the 'Gandhian Plan'?",
+            "question": "Who started the 'Gandhian Plan'?",
             "options": [
                 "Jawaharlal Nehru",
                 "Dadabhai Naoroji",
@@ -156,7 +156,7 @@
             "answer": "None of the above"
         },
         {
-            "questions": "Inflation is the state in which ..............................",
+            "question": "Inflation is the state in which ..............................",
             "options": [
                 "The value of money decreases",
                 "The value of money increases",
@@ -167,7 +167,7 @@
             "answer": "The value of money decreases"
         },
         {
-            "questions": "Which of the following in biology is the energy currency of cells?",
+            "question": "Which of the following in biology is the energy currency of cells?",
             "options": [
                 "PDP",
                 "DTP",
@@ -178,7 +178,7 @@
             "answer": "ATP"
         },
         {
-            "questions": "In the stem of a plant respiration and breathing takes place through:",
+            "question": "In the stem of a plant respiration and breathing takes place through:",
             "options": [
                 "Lenticels",
                 "Stomata",
@@ -189,7 +189,7 @@
             "answer": "Lenticels"
         },
         {
-            "questions": "Which animal has three-chambered heart?",
+            "question": "Which animal has three-chambered heart?",
             "options": [
                 "Pigeon",
                 "Lizard",
@@ -200,7 +200,7 @@
             "answer": "Lizard"
         },
         {
-            "questions": "Name the ions present in Sodium Oxide compound?",
+            "question": "Name the ions present in Sodium Oxide compound?",
             "options": [
                 "Sodium ions",
                 "Oxide ions",
@@ -211,7 +211,7 @@
             "answer": "Both A and B"
         },
         {
-            "questions": "Which of the following are electrovalent compounds?",
+            "question": "Which of the following are electrovalent compounds?",
             "options": [
                 "Copper sulphate",
                 "Calcium nitrate",
@@ -222,7 +222,7 @@
             "answer": "All of the above"
         },
         {
-            "questions": "What is the electronic configuration of calcium ion (Ca2+)",
+            "question": "What is the electronic configuration of calcium ion (Ca2+)",
             "options": [
                 "2,8",
                 "2,8,2",
@@ -233,7 +233,7 @@
             "answer": "2,8,8"
         },
         {
-            "questions": "Lunar Eclipse occur:",
+            "question": "Lunar Eclipse occur:",
             "options": [
                 "When Sun is between Earth and Moon",
                 "When Earth is between Sun and Moon",
@@ -244,7 +244,7 @@
             "answer": "When Earth is between Sun and Moon"
         },
         {
-            "questions": "What is Solar Eclipse?",
+            "question": "What is Solar Eclipse?",
             "options": [
                 "When moon comes in between Earth and Sun",
                 "When Earth comes in between Moon and Sun",
@@ -255,7 +255,7 @@
             "answer": "When moon comes in between Earth and Sun"
         },
         {
-            "questions": "When is the World Day to Combat Desertification and Drought observed every year?",
+            "question": "When is the World Day to Combat Desertification and Drought observed every year?",
             "options": [
                 "June 16",
                 "June 17",
@@ -266,7 +266,7 @@
             "answer": "June 17"
         },
         {
-            "questions": "Who launched the National Health Resource Repository project?",
+            "question": "Who launched the National Health Resource Repository project?",
             "options": [
                 "JP Nadda",
                 "Harsh Vardhan",
