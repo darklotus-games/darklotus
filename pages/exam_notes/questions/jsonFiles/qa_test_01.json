@@ -1,6 +1,6 @@
 {
-    "type": "General Knowledge",
-    "fileName": "GK-Test-01",
+    "type": "Quantitive Aptitude",
+    "fileName": "QA-Test-01",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,7 +8,7 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 5,
+    "time": 10,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [

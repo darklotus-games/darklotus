@@ -1,0 +1,27 @@
+{
+    "type": "General Knowledge",
+    "fileName": "GK-Test-01",
+    "yourScore": null,
+    "attempted": null,
+    "correct": null,
+    "wrong": null,
+    "notAttempted": null,
+    "total": null,
+    "percentage": null,
+    "time": 10,
+    "timeTaken": null,
+    "isSubmitted": false,
+    "questions": [
+        {
+            "question": "Who among the following was not part of the 'panchkathiya' system agitation?",
+            "options": [
+                "Sheikh Gulab",
+                "Harbans Sahay",
+                "Pir Mohammed Munsi",
+                "Rajendra Prasad"
+            ],
+            "userAnswer": null,
+            "answer": "Rajendra Prasad"
+        },
+    ]
+}

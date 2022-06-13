@@ -1,103 +1,36 @@
 {
-    "items": [
-      {
-        "fileName": "Something_11.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 13 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_1.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 5 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_2.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 4 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_3.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 3 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_4.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 2 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_5.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 1 Aug 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_6.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 13 Jan 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_7.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 13 Feb 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_8.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 13 Mar 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_9.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 13 Apr 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      },
-      {
-        "fileName": "Something_10.pdf",
-        "fileDesc": "SSC CGL Previous Year Question Paper Test || 11 May 22 || Download pdf",
-        "fileLink": "http://www.pdf995.com/samples/pdf.pdf",
-        "type" : "weekly",
-        "isDownloaded": false,
-        "downloadProgress": 0,
-        "downloading": false
-      }
-    ]
-  }
+  "items": [
+    {
+      "fileName": "QA-Test-01",
+      "fileDesc": "SSC CGL || Quantitive Aptitude Questions || 10 Mins || 25 Questions || 06 Jan 22",
+      "fileLink": "https://darklotus.in/pages/exam_notes/papers/jsonFiles/qa_test_01.json",
+      "isDownloaded": false,
+      "downloadProgress": 0,
+      "downloading": false
+    },
+    {
+      "fileName": "Reasoning-Test-01",
+      "fileDesc": "SSC CGL || Reasoning Questions || 10 Mins || 25 Questions || 01 Jan 22",
+      "fileLink": "https://darklotus.in/pages/exam_notes/papers/jsonFiles/reasoning_test_01.json",
+      "isDownloaded": false,
+      "downloadProgress": 0,
+      "downloading": false
+    },
+    {
+      "fileName": "GK-Test-01",
+      "fileDesc": "SSC CGL || GK Questions || 5 Mins || 25 Questions || 01 Jan 22",
+      "fileLink": "https://darklotus.in/pages/exam_notes/papers/jsonFiles/gk_test_01.json",
+      "isDownloaded": false,
+      "downloadProgress": 0,
+      "downloading": false
+    },
+    {
+      "fileName": "English-Test-03",
+      "fileDesc": "SSC CGL || English Questions || 7 Mins || 25 Questions || 01 Jan 22",
+      "fileLink": "https://darklotus.in/pages/exam_notes/papers/jsonFiles/english_test_01.json",
+      "isDownloaded": false,
+      "downloadProgress": 0,
+      "downloading": false
+    }
+  ]
+}

@@ -1,28 +1,33 @@
 {
     "items": [
       {
-        "fileName": "English-Test-01",
-        "fileDesc": "SSC CGL || SSC CHSL || English Questions || 7 Mins || 25 Questions || 06 Jun 2022",
-        "fileLink": "https://darklotus.in/pages/exam_notes/questions/jsonFiles/english_test_01.json",
-        "type" : "weekly",
+        "fileName": "QA-Test-01",
+        "fileDesc": "SSC CGL || Quantitive Aptitude Questions || 10 Mins || 25 Questions || 06 Jan 22",
+        "fileLink": "https://darklotus.in/pages/exam_notes/questions/jsonFiles/qa_test_01.json",
+        "isDownloaded": false,
+        "downloadProgress": 0,
+        "downloading": false
+      },
+      {
+        "fileName": "Reasoning-Test-01",
+        "fileDesc": "SSC CGL || Reasoning Questions || 10 Mins || 25 Questions || 01 Jan 22",
+        "fileLink": "https://darklotus.in/pages/exam_notes/questions/jsonFiles/reasoning_test_01.json",
         "isDownloaded": false,
         "downloadProgress": 0,
         "downloading": false
       },
       {
         "fileName": "GK-Test-01",
-        "fileDesc": "SSC CGL || SSC CHSL || GK Questions || 7 Mins || 25 Questions || 29 May 2022",
+        "fileDesc": "SSC CGL || GK Questions || 5 Mins || 25 Questions || 01 Jan 22",
         "fileLink": "https://darklotus.in/pages/exam_notes/questions/jsonFiles/gk_test_01.json",
-        "type" : "weekly",
         "isDownloaded": false,
         "downloadProgress": 0,
         "downloading": false
       },
       {
         "fileName": "English-Test-03",
-        "fileDesc": "SSC CGL || SSC CHSL || English Questions || 7 Mins || 25 Questions || 22 May 2022",
+        "fileDesc": "SSC CGL || English Questions || 7 Mins || 25 Questions || 01 Jan 22",
         "fileLink": "https://darklotus.in/pages/exam_notes/questions/jsonFiles/english_test_01.json",
-        "type" : "weekly",
         "isDownloaded": false,
         "downloadProgress": 0,
         "downloading": false
