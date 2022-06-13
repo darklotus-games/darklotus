@@ -161,7 +161,7 @@
                 "Pull",
                 "Call",
                 "Tell",
-                "Tell"
+                "Push"
             ],
             "userAnswer": null,
             "answer": "Pull"
@@ -233,7 +233,7 @@
             "answer": "A brilliant catch was taken by the fielder at the slip position"
         },
         {
-            "question": "Next Question(21-25)\nIn the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nMoore worked without stopping until eleven o’clock. Then he made (1)______ a cup of tea. He was enjoying himself sitting alone (2)______ the fireside. The firelight danced on the walls and (3)______ strange shadows around the room. His tea tasted (4)______ and there was nobody to disturb him. Then, for (5)______ first time he noticed how much noise the rats were making.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "question": "For Questions(21-25)\nIn the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nMoore worked without stopping until eleven o’clock. Then he made (1)______ a cup of tea. He was enjoying himself sitting alone (2)______ the fireside. The firelight danced on the walls and (3)______ strange shadows around the room. His tea tasted (4)______ and there was nobody to disturb him. Then, for (5)______ first time he noticed how much noise the rats were making.\n\nSelect the most appropriate option to fill in blank number 1.",
             "options": [
                 "herself",
                 "ourself",
