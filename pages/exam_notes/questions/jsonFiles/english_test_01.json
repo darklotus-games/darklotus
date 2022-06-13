@@ -8,20 +8,19 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
-            "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+            "question": " Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\nA. “I have already spent it,” the thief replied.            B. “What! I will take you to the police right now,” Arun thundered.\nC. “Give me back my money,” Arun said to the thief.\nD. “Sir, please have some mercy on me,” the thief pleaded.",
+            "options": [ "CBAD",
+                 "ADBC",
+                "CABD",
+                "BCAD"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "CABD"
         } 
     ]
 }
