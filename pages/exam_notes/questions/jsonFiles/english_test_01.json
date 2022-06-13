@@ -41,6 +41,16 @@
             ],
             "userAnswer": null,
             "answer": "Increase"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\n Raman went / with his wife / to the village / to sold their land.",
+            "options": [ "Decrease",
+                "Increase",
+                "Minimise",
+                "Reduce"
+            ],
+            "userAnswer": null,
+            "answer": "Increase"
         }
     ]
 }
