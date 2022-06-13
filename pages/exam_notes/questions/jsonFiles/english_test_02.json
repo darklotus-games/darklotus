@@ -1,5 +1,5 @@
 {
-    "type" : "English",
+    "type": "English",
     "fileName": "English-Test-01",
     "yourScore": null,
     "attempted": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n An examination of a dead body to determine the cause of death",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "Post-mortem",
+                "Analysis",
+                "Suicide",
+                "Homicide"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "Post-mortem"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Cousin",
+                "Neice",
+                "Nephew",
+                "Uncle"
+            ],
+            "userAnswer": null,
+            "answer": "Neice"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\nA. Shopkeeper: “Not at all. It is hardly a two-minute walk from here.”\nB. Boy: “Can you please show me the way to the post office?”\nC. Shopkeeper: “Go straight from here and take a right turn.”\nD. Boy: “Is it very far off from here?”",
+            "options": [
+                "BCDA",
+                "CDAB",
+                "BADC",
+                "DCBA"
+            ],
+            "userAnswer": null,
+            "answer": "BCDA"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nTwiddling one’s thumbs",
+            "options": [
+                "Feeling hungry",
+                "Feeling angry",
+                "Feeling bored",
+                "Feeling sad"
+            ],
+            "userAnswer": null,
+            "answer": "Feeling bored"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nBarbaric",
+            "options": [
+                "Inhuman",
+                "brutal",
+                "cruel",
+                "Civilised"
+            ],
+            "userAnswer": null,
+            "answer": "Civilised"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\nAll those students / who are participating / in the play / have been notify / to stay back for rehearsal / after 3:00 p.m.",
+            "options": [
+                "to stay back for rehearsal",
+                "have been notify",
+                "after 3:00 p.m.",
+                "who are participating"
+            ],
+            "userAnswer": null,
+            "answer": "have been notify"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nDelight",
+            "options": [
+                "Joy",
+                "Glee",
+                "Sorrow",
+                "Pleasure"
+            ],
+            "userAnswer": null,
+            "answer": "Sorrow"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nAfter entering the town, / go straight and then / take a sharpest turn / towards your left/ to reach the mall.",
+            "options": [
+                "take a sharpest turn",
+                "towards your left",
+                "After entering the town",
+                "to reach the mall"
+            ],
+            "userAnswer": null,
+            "answer": "take a sharpest turn"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. Ram introduced Shyam to everyone and then served snacks to them.\nB. After he cut the cake, all of them danced for a long time.\nC. When Shyam reached his house, his classmates had already arrived.\nD. Ram invited his friend Shyam on his birthday.",
+            "options": [
+                "ABCD",
+                "DBAC",
+                "DCAB",
+                "ACDB"
+            ],
+            "userAnswer": null,
+            "answer": "DCAB"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in reported speech.\n\nHe said to me, 'It was raining all day.'",
+            "options": [
+                "He told me that it had been raining all day",
+                "He told me it is raining all day.",
+                "He told me it was raining all day",
+                "He told me it has been raining all day."
+            ],
+            "userAnswer": null,
+            "answer": "He told me that it had been raining all day"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nOut of the blue",
+            "options": [
+                "Loves to wear only blue colour clothes",
+                "Beat someone black and blue",
+                "Completely honestly",
+                "Completely unexpectedly"
+            ],
+            "userAnswer": null,
+            "answer": "Completely unexpectedly"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\n Abstain",
+            "options": [
+                "Reduce",
+                "Refrain",
+                "Propose",
+                "Accept"
+            ],
+            "userAnswer": null,
+            "answer": "Refrain"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person who presents a radio/television programme",
+            "options": [
+                "Actor",
+                "Comedian",
+                "Anchor",
+                "Choreographer"
+            ],
+            "userAnswer": null,
+            "answer": "Anchor"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in active voice.\n\nI was given a robot by him.",
+            "options": [
+                "A robot by him was given to I.",
+                "He gave me a robot.",
+                "A robot by him was given to me.",
+                "A robot was given to me by him."
+            ],
+            "userAnswer": null,
+            "answer": "He gave me a robot."
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\n It was ______ to everyone present that the patient would not survive if immediate help was not received.",
+            "options": [
+                "No substitution",
+                "is true",
+                "are true",
+                "is being true"
+            ],
+            "userAnswer": null,
+            "answer": "is true"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nIt was ______ to everyone present that the patient would not survive if immediate help was not received.",
+            "options": [
+                "hidden",
+                "unoticed",
+                "apparent",
+                "unseen"
+            ],
+            "userAnswer": null,
+            "answer": "apparent"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Playright",
+                "Plagiarise",
+                "Plough",
+                "Playful"
+            ],
+            "userAnswer": null,
+            "answer": "Playright"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nCadence",
+            "options": [
+                "Habit",
+                "Pleasure",
+                "Freshness",
+                "Rhythm"
+            ],
+            "userAnswer": null,
+            "answer": "Rhythm"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nCrowds of tourists ______ across the square all day long.",
+            "options": [
+                "rectified",
+                "prodded",
+                "maintained",
+                "flowed"
+            ],
+            "userAnswer": null,
+            "answer": "flowed"
+        },
+        {
+            "question": "Select the option that will improve the underlined part of the given sentence. In case no improvement is needed select ‘No improvement required’.\n\nBats huddle together to get warm of each other's body.",
+            "options": [
+                "warming from",
+                "warmth from",
+                "warm off",
+                "No improvement required"
+            ],
+            "userAnswer": null,
+            "answer": "warmth from"
+        },
+        {
+            "question": "For Questions(21-25)\nIn the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. John was an artist (1)______ profession. He was very (2)______ at his work and could (3)______ any subject he could think of, but circumstances forced him to (4)______ in (5)______ the work of renowned artists.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "from",
+                "about",
+                "off",
+                "by"
+            ],
+            "userAnswer": null,
+            "answer": "by"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "better",
+                "good",
+                "richer",
+                "best"
+            ],
+            "userAnswer": null,
+            "answer": "good"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "plaintive",
+                "plant",
+                "paint",
+                "painted"
+            ],
+            "userAnswer": null,
+            "answer": "paint"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "synthesize",
+                "specialize",
+                "socialize",
+                "sanctify"
+            ],
+            "userAnswer": null,
+            "answer": "specialize"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "duplicating",
+                "doubting",
+                "doubling",
+                "dominating"
+            ],
+            "userAnswer": null,
+            "answer": "duplicating"
         }
     ]
 }
