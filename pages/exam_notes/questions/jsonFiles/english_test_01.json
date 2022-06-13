@@ -1,5 +1,5 @@
 {
-    "type" : "English",
+    "type": "English",
     "fileName": "English-Test-01",
     "yourScore": null,
     "attempted": null,
@@ -13,28 +13,20 @@
     "isSubmitted": false,
     "questions": [
         {
-            "question": " Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. “I have already spent it,” the thief replied.            B. “What! I will take you to the police right now,” Arun thundered.\nC. “Give me back my money,” Arun said to the thief.\nD. “Sir, please have some mercy on me,” the thief pleaded.",
-            "options": [ "CBAD",
-                 "ADBC",
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. “I have already spent it,” the thief replied.            B. “What! I will take you to the police right now,” Arun thundered.\nC. “Give me back my money,” Arun said to the thief.\nD. “Sir, please have some mercy on me,” the thief pleaded.",
+            "options": [
+                "CBAD",
+                "ADBC",
                 "CABD",
                 "BCAD"
             ],
             "userAnswer": null,
             "answer": "CABD"
-        }, 
+        },
         {
-            "question": " Select the most appropriate ANTONYM of the given word. \n\n Lessen",
-            "options": [ "Decrease",
-                "Increase",
-                "Minimise",
-                "Reduce"
-            ],
-            "userAnswer": null,
-            "answer": "Increase"
-        }, 
-        {
-            "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\n Raman went / with his wife / to the village / to sold their land.",
-            "options": [ "Decrease",
+            "question": "Select the most appropriate ANTONYM of the given word. \n\n Lessen",
+            "options": [
+                "Decrease",
                 "Increase",
                 "Minimise",
                 "Reduce"
@@ -44,13 +36,256 @@
         },
         {
             "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\n Raman went / with his wife / to the village / to sold their land.",
-            "options": [ "Decrease",
-                "Increase",
-                "Minimise",
-                "Reduce"
+            "options": [
+                "Raman went",
+                "with his wife",
+                "to sold their land",
+                "to the village"
             ],
             "userAnswer": null,
-            "answer": "Increase"
+            "answer": "to sold their land"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. At its height, around 1,200 years ago, the city of Calakmul had a population of about 50,000 people, but the kingdom as a whole numbered more than 1.5 million.\nB. Deep in the jungle of southern Mexico lie the ruins of a city that thrived for centuries before it was abandoned more than 1,000 years ago.\nC. Archaeologists have uncovered 6,750 structures here—the largest is this pyramid temple, called, simply, 'Structure 2.'\nD. Calakmul was once one of the two duelling superpowers—along with Tikal—of the Classical Mayan civilisation.",
+            "options": [
+                "ACDB",
+                "DBCA",
+                "BDAC",
+                "BCDA"
+            ],
+            "userAnswer": null,
+            "answer": "BDAC"
+        },
+        {
+            "question": "Select the option that will improve the highlighted part of the sentence. In case no improvement is needed, select 'No improvement'.\n\n The prisoners are 'kept at' constant surveillance",
+            "options": [
+                "No improvement",
+                "kept with",
+                "kept under",
+                "kept by"
+            ],
+            "userAnswer": null,
+            "answer": "kept under"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nThe art of effective or persuasive speaking or writing",
+            "options": [
+                "Poetry",
+                "Rhetoric",
+                "Bombastic",
+                "Archaic"
+            ],
+            "userAnswer": null,
+            "answer": "Rhetoric"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\nNelson said, “I was playing cricket.”",
+            "options": [
+                "Nelson said that he was playing cricket.",
+                "Nelson said I was playing cricket.",
+                "Nelson said that I was playing cricket.",
+                "Nelson said that he had been playing cricket."
+            ],
+            "userAnswer": null,
+            "answer": "Nelson said that he had been playing cricket."
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nHumdrum",
+            "options": [
+                "Noisy",
+                "Boring",
+                "Exciting",
+                "Lively"
+            ],
+            "userAnswer": null,
+            "answer": "Boring"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Anarchy",
+                "Aristocracy",
+                "Monarchy",
+                "Tyrany"
+            ],
+            "userAnswer": null,
+            "answer": "Tyrany"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nTo fight tooth and nail",
+            "options": [
+                "To silently leave the scene of battle",
+                "To use unusual weapons to fight",
+                "To keep the enemy guessing about the weapons used",
+                "To fight or compete with great ferocity and intensity"
+            ],
+            "userAnswer": null,
+            "answer": "To fight or compete with great ferocity and intensity"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A person employed to drive a private or hired car",
+            "options": [
+                "Captain",
+                "Escort",
+                "Pilot",
+                "Chauffeur"
+            ],
+            "userAnswer": null,
+            "answer": "Chauffeur"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nMithila art tradition is passed on / from one generation through a next / by children watching and helping / their mothers and grandmothers.",
+            "options": [
+                "Mithila art tradition is passed on",
+                "from one generation through a next",
+                "their mothers and grandmothers",
+                "by children watching and helping"
+            ],
+            "userAnswer": null,
+            "answer": "from one generation through a next"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nControlled",
+            "options": [
+                "Guarded",
+                "Excited",
+                "Calm",
+                "Restrained"
+            ],
+            "userAnswer": null,
+            "answer": "Excited"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nDrag",
+            "options": [
+                "Pull",
+                "Call",
+                "Tell",
+                "Tell"
+            ],
+            "userAnswer": null,
+            "answer": "Pull"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe worst possible ______ for human society is that we will destroy ourselves with nuclear weapons",
+            "options": [
+                "privilege",
+                "preceptive",
+                "presentation",
+                "prediction"
+            ],
+            "userAnswer": null,
+            "answer": "prediction"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Written",
+                "Melody",
+                "Verbal",
+                "Speach"
+            ],
+            "userAnswer": null,
+            "answer": "Speach"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nto fan the flames",
+            "options": [
+                "To cool the situation",
+                "To make a bad situation worse",
+                "To resolve the issue amicably",
+                "To call for help to solve an issue"
+            ],
+            "userAnswer": null,
+            "answer": "To make a bad situation worse"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe people of Rajasthan strictly ______ to the traditional customs.",
+            "options": [
+                "abide",
+                "appeal",
+                "apply",
+                "adhere"
+            ],
+            "userAnswer": null,
+            "answer": "adhere"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution required’.\n\nThe crowd 'have gathered around the area' to watch the actors.",
+            "options": [
+                "No substitution required",
+                "have gathered around the area",
+                "have gathered in the area",
+                "has gathered around the area"
+            ],
+            "userAnswer": null,
+            "answer": "has gathered around the area"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\nThe fielder at the slip position took a brilliant catch.",
+            "options": [
+                "A brilliant catch was taken by the fielder at the slip position",
+                "A brilliant catch had been taken by the fielder at the slip position.",
+                "A brilliant catch was being taken by the fielder at the slip position.",
+                "A brilliant catch has been taken by the fielder at the slip position"
+            ],
+            "userAnswer": null,
+            "answer": "A brilliant catch was taken by the fielder at the slip position"
+        },
+        {
+            "question": "Next Question(21-25)\nIn the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nMoore worked without stopping until eleven o’clock. Then he made (1)______ a cup of tea. He was enjoying himself sitting alone (2)______ the fireside. The firelight danced on the walls and (3)______ strange shadows around the room. His tea tasted (4)______ and there was nobody to disturb him. Then, for (5)______ first time he noticed how much noise the rats were making.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "herself",
+                "ourself",
+                "itself",
+                "himself"
+            ],
+            "userAnswer": null,
+            "answer": "himself"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "by",
+                "over",
+                "in",
+                "for"
+            ],
+            "userAnswer": null,
+            "answer": "by"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "picked",
+                "stuck",
+                "pocked",
+                "cast"
+            ],
+            "userAnswer": null,
+            "answer": "cast"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "excellent",
+                "attractive",
+                "skillful",
+                "desirable"
+            ],
+            "userAnswer": null,
+            "answer": "excellent"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "only",
+                "a",
+                "one",
+                "the"
+            ],
+            "userAnswer": null,
+            "answer": "the"
         }
     ]
 }
