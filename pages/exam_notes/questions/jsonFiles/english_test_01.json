@@ -13,7 +13,7 @@
     "isSubmitted": false,
     "questions": [
         {
-            "question": " Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\nA. “I have already spent it,” the thief replied.            B. “What! I will take you to the police right now,” Arun thundered.\nC. “Give me back my money,” Arun said to the thief.\nD. “Sir, please have some mercy on me,” the thief pleaded.",
+            "question": " Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. “I have already spent it,” the thief replied.            B. “What! I will take you to the police right now,” Arun thundered.\nC. “Give me back my money,” Arun said to the thief.\nD. “Sir, please have some mercy on me,” the thief pleaded.",
             "options": [ "CBAD",
                  "ADBC",
                 "CABD",
@@ -23,7 +23,7 @@
             "answer": "CABD"
         }, 
         {
-            "question": " Select the most appropriate ANTONYM of the given word. \n Lessen",
+            "question": " Select the most appropriate ANTONYM of the given word. \n\n Lessen",
             "options": [ "Decrease",
                 "Increase",
                 "Minimise",
