@@ -10,7 +10,12 @@
     "percentage": null,
     "time": 5,
     "timeTaken": null,
+    "englishQuestions": 25,
+    "reasoningQuestions": 25,
+    "qaQuestions": 25,
+    "gkQuestions": 25,
     "isSubmitted": false,
+
     "questions": [
         {
             "question": "Who among the following was not part of the 'panchkathiya' system agitation?",
