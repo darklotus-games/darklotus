@@ -10,6 +10,7 @@
     "percentage": null,
     "time": 5,
     "timeTaken": null,
+    "totalQuestions": 100,
     "englishQuestions": 25,
     "reasoningQuestions": 25,
     "qaQuestions": 25,
