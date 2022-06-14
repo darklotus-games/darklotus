@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-05",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the option that expresses the given sentence in passive voice.\n\nThe armed forces put up an impressive parade on Republic Day.",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "An impressive parade was put up by the armed forces on Republic Day.",
+                "An impressive parade have been put up by the armed forces on Republic Day",
+                "An impressive parade was being put up on Republic Day by the armed forces",
+                "An impressive parade is putting up by the armed forces on Republic Day"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "An impressive parade was put up by the armed forces on Republic Day."
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the give sentence. If no substitution is required, select ‘No substitution’.\n\nSameer gave very less information to Muneer about the progress of the work.",
+            "options": [
+                "No substitution",
+                "gave very less informations",
+                "give very less information",
+                "gave very little information"
+            ],
+            "userAnswer": null,
+            "answer": "gave very little information"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA family of young birds",
+            "options": [
+                "Offspring",
+                "Litter",
+                "Brood",
+                "Kids"
+            ],
+            "userAnswer": null,
+            "answer": "Brood"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nMany artisans were almost without any work during the pandemic",
+            "options": [
+                "any without almost",
+                "almost any without",
+                "No substitution",
+                "without any almost"
+            ],
+            "userAnswer": null,
+            "answer": "No substitution"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nShimmer",
+            "options": [
+                "Shiver",
+                "Shake",
+                "Quake",
+                "Shine"
+            ],
+            "userAnswer": null,
+            "answer": "Shine"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. The mouse, however, reached his hole in safety.\nB. A bull was bitten by a mouse, and, pained by the wound, tried to capture him.\n C. The mouse, peeping out, crept up his flank and, again biting him, retreated to his hole.\nD. The bull dug into the walls with his horns until, wearied, he crouched down and slept by the hole.",
+            "options": [
+                "BCDA",
+                "ADBC",
+                "BADC",
+                "DACB"
+            ],
+            "userAnswer": null,
+            "answer": "BADC"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nOn edge",
+            "options": [
+                "Playing a tiring game",
+                "Keeping things safely",
+                "Nervous and unable to relax",
+                "Doing exercises regularly"
+            ],
+            "userAnswer": null,
+            "answer": "Nervous and unable to relax"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nAn incongruous or chaotic mixture",
+            "options": [
+                "Harmony",
+                "Discord",
+                "Melody",
+                "Cacophony"
+            ],
+            "userAnswer": null,
+            "answer": "Cacophony"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nUncanny",
+            "options": [
+                "Mysterious",
+                "Unprotected",
+                "Exposed",
+                "Plain"
+            ],
+            "userAnswer": null,
+            "answer": "Mysterious"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nIt is said that civilised man has ______ about twenty wild animals.",
+            "options": [
+                "staggered",
+                "tamed",
+                "amazed",
+                "stunned"
+            ],
+            "userAnswer": null,
+            "answer": "tamed"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nA square deal",
+            "options": [
+                "An unfair agreement",
+                "A fair agreement",
+                "A nice decoration",
+                "A dishonest transaction"
+            ],
+            "userAnswer": null,
+            "answer": "A fair agreement"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\nKruti asked Gopal, “Have you heard the news about the inauguration of the new bridge?”",
+            "options": [
+                "Kruti asked Gopal if he had heard the news about the inauguration of the new bridge.",
+                "Kruti asked to Gopal you have heard the news about the inauguration of the new bridge.",
+                "Kruti asked Gopal if you have hear the news about the inauguration of the new bridge.",
+                "Kruti asked Gopal if they have heard the news about the inauguration of the new bridge."
+            ],
+            "userAnswer": null,
+            "answer": "Kruti asked Gopal if he had heard the news about the inauguration of the new bridge."
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nIt is misleading / to imagine that / computers can think / same like human beings.",
+            "options": [
+                "computers can think",
+                "It is misleading",
+                "to imagine that",
+                "same like human beings"
+            ],
+            "userAnswer": null,
+            "answer": "same like human beings"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Incandesent",
+                "Impervious",
+                "Impeccable",
+                "Inconclusive"
+            ],
+            "userAnswer": null,
+            "answer": "Incandesent"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe invention of fertilisers and insecticides has increased agricultural ______ which is required to feed the swelling population of the world.",
+            "options": [
+                "goods",
+                "cargo",
+                "output",
+                "product"
+            ],
+            "userAnswer": null,
+            "answer": "output"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. It is essential for the marketer to study the behaviour of the consumers in order to make better strategic marketing decisions.\n B. The study of consumer behaviour is equally important for the non-profit organisations such as governmental agencies, hospitals, NGOs, charitable organisations.\n C. Thus, by studying the consumer behaviour before and during purchase helps in production scheduling, designing, pricing, positioning, segmentation, advertising and other promotional activities. \nD. If the marketer has complete knowledge about the consumer’s likings or disliking, then he can predict the response of the potential customers towards his offerings.",
+            "options": [
+                "CDBA",
+                "BCAD",
+                "ADCB",
+                "ACBD"
+            ],
+            "userAnswer": null,
+            "answer": "ADCB"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Reciept",
+                "Deceive",
+                "Perceive",
+                "Review"
+            ],
+            "userAnswer": null,
+            "answer": "Reciept"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\n Impoverished",
+            "options": [
+                "Deprived",
+                "Unlucky",
+                "Rich",
+                "Needy"
+            ],
+            "userAnswer": null,
+            "answer": "Rich"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If there is no error, select ‘No error’.\n\nThe balloon flew up / as soon as / the man cutting the string.",
+            "options": [
+                "No error",
+                "as soon as",
+                "the man cutting the string",
+                "The balloon flew up    "
+            ],
+            "userAnswer": null,
+            "answer": "the man cutting the string"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nRamify",
+            "options": [
+                "Isolate",
+                "Insulate",
+                "Unite",
+                "Divide"
+            ],
+            "userAnswer": null,
+            "answer": "Unite"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. Waterfalls, sometimes called cataracts, arise from an abrupt steepening of a river channel that causes the flow of water to drop vertically, or nearly so. Waterfalls of small (1)______ and lesser steepness are called cascades; the (2)______ is often applied to a series of small falls (3)______ a river. Still gentler reaches of rivers that nonetheless (4)______ turbulent flow and white water in response to a local (5)______ in channel gradient are rapids.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "height",
+                "summit",
+                "peak",
+                "growth"
+            ],
+            "userAnswer": null,
+            "answer": "height"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "call",
+                "example",
+                "term",
+                "idiom"
+            ],
+            "userAnswer": null,
+            "answer": "term"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "overhead",
+                "beyond",
+                "above",
+                "along"
+            ],
+            "userAnswer": null,
+            "answer": "along"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "parade",
+                "exhibit",
+                "flourish",
+                "boast"
+            ],
+            "userAnswer": null,
+            "answer": "exhibit"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "spread",
+                "intensification",
+                "growth",
+                "proliferation"
+            ],
+            "userAnswer": null,
+            "answer": "intensification"
         }
     ]
 }
