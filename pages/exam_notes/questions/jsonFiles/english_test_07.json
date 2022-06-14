@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-07",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the most appropriate synonym of the given word.\n\nBanner",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "March",
+                "Rally",
+                "Protest",
+                "Poster"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "Poster"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nOn cloud nine",
+            "options": [
+                "Extremely happy",
+                "Flying with a parachute",
+                "Extremely sad",
+                "Frequently flying by air"
+            ],
+            "userAnswer": null,
+            "answer": "Extremely happy"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nFecund",
+            "options": [
+                "Genial",
+                "Polite",
+                "Rude",
+                "Barren"
+            ],
+            "userAnswer": null,
+            "answer": "Barren"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n The state of being subject to death",
+            "options": [
+                "Mortality",
+                "Deadly",
+                "Morbidity",
+                "Immortality"
+            ],
+            "userAnswer": null,
+            "answer": "Mortality"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\n The counter clerk asked the visitor, “What is your name?”",
+            "options": [
+                "The counter clerk asks the visitor your name.",
+                "The counter clerk has asked the visitor his name.",
+                "The counter clerk is asking the visitor your name.",
+                "The counter clerk asked the visitor his name."
+            ],
+            "userAnswer": null,
+            "answer": "The counter clerk asked the visitor his name."
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nWhat were the examples that the writer gave to proved his point?",
+            "options": [
+                "No substitution",
+                "given to prove his point",
+                "give for proving his point",
+                "gave to prove his point"
+            ],
+            "userAnswer": null,
+            "answer": "gave to prove his point"
+        },
+        {
+            "question": "SSelect the most appropriate option to fill in the blank.\n\nThe government has hardened its ______ against the agitators and imposed a curfew in the area.",
+            "options": [
+                "bearing",
+                "orientation",
+                "stance",
+                "manner"
+            ],
+            "userAnswer": null,
+            "answer": "stance"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nHarmony",
+            "options": [
+                "Rapport",
+                "Peace",
+                "Hatred",
+                "Friendship"
+            ],
+            "userAnswer": null,
+            "answer": "Hatred"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. Inspector: “Were you sleeping when the robbers entered the bank?”\nB. Guard: “The iron grill lock was broken and the bank looked ransacked but the robbers could not take away anything as I had returned quickly.”\nC. Inspector: “What did you see when you came back?”\nD. Guard: “No Sir. The bank had closed and I had just gone to relieve myself.”",
+            "options": [
+                "ADCB",
+                "ABCD",
+                "CBDA",
+                "BADC"
+            ],
+            "userAnswer": null,
+            "answer": "ADCB"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n The army / marched fearless / towards / the enemy cantonment.",
+            "options": [
+                "the enemy cantonment",
+                "marched fearless",
+                "towards",
+                "The army"
+            ],
+            "userAnswer": null,
+            "answer": "marched fearless"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nSeveral prominent film stars / have appeared on television / on behalf of awareness / about hand hygiene.",
+            "options": [
+                "have appeared on television",
+                "about hand hygiene",
+                "Several prominent film stars",
+                "on behalf of awareness"
+            ],
+            "userAnswer": null,
+            "answer": "on behalf of awareness"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A musical composition made up of a series of songs or short pieces",
+            "options": [
+                "Lyric",
+                "Band",
+                "Medley",
+                "Orchestra"
+            ],
+            "userAnswer": null,
+            "answer": "Medley"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nAbsolve",
+            "options": [
+                "Pardon",
+                "Attack",
+                "Accuse",
+                "Condemn"
+            ],
+            "userAnswer": null,
+            "answer": "Pardon"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n He gave Kaveri a beautiful yellow dress.",
+            "options": [
+                "Kaveri has given a beautiful yellow dress by him",
+                "Kaveri was given a beautiful yellow dress by him",
+                "Kaveri has been given a beautiful yellow dress by him",
+                "Kaveri is given a beautiful yellow dress by him"
+            ],
+            "userAnswer": null,
+            "answer": "Kaveri was given a beautiful yellow dress by him"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Refurbish",
+                "Sanctity",
+                "Esscalator",
+                "Automated"
+            ],
+            "userAnswer": null,
+            "answer": "Esscalator"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nDraw the line at something",
+            "options": [
+                "Agreeing to an idea",
+                "Coming to a conclusion",
+                "Accept something up to a particular point",
+                "Making pencil sketches"
+            ],
+            "userAnswer": null,
+            "answer": "Accept something up to a particular point"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nIf you are not able to go out, did not worry.",
+            "options": [
+                "No substitution",
+                "don't worried",
+                "do not worry",
+                "worrying not"
+            ],
+            "userAnswer": null,
+            "answer": "do not worry"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\n We are bewildered by the power which science has suddenly placed in our laps, and we are ______ by the realisation of our unpreparedness to deal with a crisis.",
+            "options": [
+                "humbled",
+                "demeaned",
+                "condemned",
+                "proud"
+            ],
+            "userAnswer": null,
+            "answer": "humbled"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Elite",
+                "Secrete",
+                "Concrete",
+                "Petete"
+            ],
+            "userAnswer": null,
+            "answer": "Petete"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Information Communication Technology tools have brought in additional changes along with means of communication.\n B. These changes have enabled man to communicate faster.\n C. Communication has not only become faster but easier too.\nD. The result is a more relaxed life than ever before",
+            "options": [
+                "DBCA",
+                "CDBA",
+                "ABDC",
+                "ABCD"
+            ],
+            "userAnswer": null,
+            "answer": "Add"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nAlmost everyone in the present world is familiar with the term ‘Global Warming’. It (1)______ to the gradual rise in the overall temperature of the atmosphere (2)______ the planet Earth. It is true that there are (3)______ activities taking place which have been increasing the temperature (4)______. The first impact of global warming is melting of (5)______ in a rapid way. This is extremely harmful to the earth as well as to its inhabitants.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "means",
+                "refers",
+                "connects",
+                "seems"
+            ],
+            "userAnswer": null,
+            "answer": "refers"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "on",
+                "of",
+                "in",
+                "at"
+            ],
+            "userAnswer": null,
+            "answer": "of"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "useful",
+                "sudden",
+                "separate",
+                "several"
+            ],
+            "userAnswer": null,
+            "answer": "several"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "frequently",
+                "gradually",
+                "purposely",
+                "properly"
+            ],
+            "userAnswer": null,
+            "answer": "gradually"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "mountains",
+                "glaciers",
+                "rivers",
+                "lakes"
+            ],
+            "userAnswer": null,
+            "answer": "glaciers"
         }
     ]
 }
