@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-03",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the option that expresses the given sentence in reported speech.\n\n\"I live in Mumbai,\"she said.",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "She said that she has been living in Mumbai",
+                "She said that she had been living in Mumbai.",
+                "She says that she was living in Mumbai.",
+                "She said that she lived in Mumbai."
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "She said that she lived in Mumbai."
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nLeverage",
+            "options": [
+                "Suggestion",
+                "Conclusion",
+                "Weakness",
+                "Influence"
+            ],
+            "userAnswer": null,
+            "answer": "Influence"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA corporation made up of a number of different companies that operate in diversified fields",
+            "options": [
+                "Association",
+                "Agreement",
+                "Correlation",
+                "Conglomerate"
+            ],
+            "userAnswer": null,
+            "answer": "Conglomerate"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\nRichard wore a broad belt with shiny buckles.",
+            "options": [
+                "A broad belt with shiny buckles wore Richard",
+                "A broad belt with shiny buckles was wear by Richard.",
+                "A broad belt with shiny buckles was worn by Richard",
+                "A broad belt with shiny buckles had been worn by Richard."
+            ],
+            "userAnswer": null,
+            "answer": "A broad belt with shiny buckles was worn by Richard"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Aesthetic",
+                "Licenced",
+                "Haphazard",
+                "Chandelier"
+            ],
+            "userAnswer": null,
+            "answer": "Licenced"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nThe gift of the gab",
+            "options": [
+                "Used to grabbing others’ gifts",
+                "Talks well and persuasively",
+                "Writes very well",
+                "Loves to give gifts"
+            ],
+            "userAnswer": null,
+            "answer": "Talks well and persuasively"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. It is also a rich source of news updates around the world.\nB. Older people and children remain glued to it.\nC. It has become a great source of entertainment for all.\nD. TV has become a powerful medium these days.",
+            "options": [
+                "DBCA",
+                "ABCD",
+                "ACBD",
+                "BDCA"
+            ],
+            "userAnswer": null,
+            "answer": "DBCA"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe lack of regular academic sessions has meant that in 2020 the country has had the______ share of students who have attended educational institutions.",
+            "options": [
+                "last",
+                "lowest",
+                "low",
+                "lower"
+            ],
+            "userAnswer": null,
+            "answer": "lowest"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n  The Committee agreed / that small businesses / has been adversely affected / by COVID-19.",
+            "options": [
+                "that small businesses",
+                "by COVID-19",
+                "The Committee agreed",
+                "has been adversely affected"
+            ],
+            "userAnswer": null,
+            "answer": "has been adversely affected"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. “Buy sweet apples, or none at all”, he instructed his servant.\nB. A rich man sent his servant to an orchard to buy some apples.\nC. The servant asked, “How am I to know that all of them are sweet if I taste just one?” \n D. The owner of the orchard said to the servant, “All my apples are sweet. Try one.”  ",
+            "options": [
+                "ACBD",
+                "BADC",
+                "ABCD",
+                "BDAC"
+            ],
+            "userAnswer": null,
+            "answer": "BADC"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nSprightly",
+            "options": [
+                "Lethargic",
+                "Energetic",
+                "Active",
+                "Lively"
+            ],
+            "userAnswer": null,
+            "answer": "Lethargic"
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nFeel at sea",
+            "options": [
+                "Feel seasick",
+                "Feel angry",
+                "Feel comfortable while travelling by water",
+                "Feel lost or confused"
+            ],
+            "userAnswer": null,
+            "answer": "Feel lost or confused"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nThe food / in the new eatery / is much best than / the one in RK Puram.",
+            "options": [
+                "in the new eatery",
+                "the one in RK Puram",
+                "The food",
+                "is much best than"
+            ],
+            "userAnswer": null,
+            "answer": "is much best than"
+        },
+        {
+            "question": "Select the option that will improve the underlined part of the given sentence. In case no improvement is needed select ‘No improvement required’.\n\nA need of an hour is to provide employment to the youth of the country.",
+            "options": [
+                "The need of the",
+                "No improvement required",
+                "The need of an",
+                "The need in an"
+            ],
+            "userAnswer": null,
+            "answer": "The need of the"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\n Integrate",
+            "options": [
+                "Separate",
+                "Assimilate",
+                "Distribute",
+                "Disburse"
+            ],
+            "userAnswer": null,
+            "answer": "Assimilate"
+        },
+        {
+            "question": "Select the option that will substitute the underlined part of the given sentence. In case no substitution is needed, select ‘No substitution required’.\n\nJapan has made important and original contributions inside some fields like photography and electronics.",
+            "options": [
+                "No substitution required",
+                "on some field like",
+                "in some fields like",
+                "for some field like"
+            ],
+            "userAnswer": null,
+            "answer": "in some fields like"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nInfirm",
+            "options": [
+                "Frail",
+                "Strong",
+                "Feeble",
+                "Weak"
+            ],
+            "userAnswer": null,
+            "answer": "Strong"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Boasting",
+                "Ascetic",
+                "Overide",
+                "Evidence"
+            ],
+            "userAnswer": null,
+            "answer": "Overide"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nHis ______ of the topic was so good that students had few doubts at the end of the class.",
+            "options": [
+                "qualification",
+                "exhibition",
+                "picturisation",
+                "exposition"
+            ],
+            "userAnswer": null,
+            "answer": "exposition"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA short rest or sleep taken after lunch",
+            "options": [
+                "Slumber",
+                "Doze",
+                "Leisure",
+                "Siesta"
+            ],
+            "userAnswer": null,
+            "answer": "Siesta"
+        },
+        {
+            "question": "In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nSmoking causes mutation in cells leading to cancer. Quitting smoking can help reverse the (1)______ risk; and it can replenish cells that actually (2)______ those of a person who has never smoked. The (3)______ you smoke the more mutations you have. The (4)______ damage to the cells lining the airway and lungs can (5)______ to cancers in the lungs, oesophagus, larynx and pharynx.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "impossible",
+                "nominal",
+                "potential",
+                "factual"
+            ],
+            "userAnswer": null,
+            "answer": "potential"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "resemble",
+                "differ",
+                "disagree",
+                "identify"
+            ],
+            "userAnswer": null,
+            "answer": "resemble"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "more",
+                "much",
+                "many",
+                "most"
+            ],
+            "userAnswer": null,
+            "answer": "more"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "broken",
+                "stable",
+                "incomplete",
+                "constant"
+            ],
+            "userAnswer": null,
+            "answer": "constant"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "direct",
+                "guide",
+                "sieze",
+                "lead"
+            ],
+            "userAnswer": null,
+            "answer": "lead"
         }
     ]
 }
