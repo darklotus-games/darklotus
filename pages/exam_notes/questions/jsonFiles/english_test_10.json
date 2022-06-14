@@ -13,279 +13,279 @@
     "isSubmitted": false,
     "questions": [
         {
-            "question": "Select the most appropriate option to fill in the blank.\n\n Researchers have found that 16 facial expressions ______ universally in similar contexts across 12 world regions.",
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution required’.\n\n“Can you give me so many examples of subordinate clauses?”, the teacher asked the class.",
             "options": [
-                "strike",
-                "transpire",
-                "occur",
-                "befall"
+                "some more examples of",
+                "No substitution required",
+                "some few examples of",
+                "some many examples of"
             ],
             "userAnswer": null,
-            "answer": "occur"
+            "answer": "some more examples of"
         },
         {
-            "question": "Select the most appropriate meaning of the following idiom.\n\nTo get the ball rolling",
+            "question": "Select the option that expresses the given sentence in reported speech.\n\n“Is he alright now?” I asked my neighbour’s wife about her husband, Mr. Gulyani.",
             "options": [
-                "To play a ball game well",
-                "To keep working until late",
-                "To begin a process",
-                "To match an opponent"
+                "I asked Mrs. Gulyani, my neighbour's wife, if her husband had become alright then.",
+                "I asked Mrs. Gulyani, my neighbour's wife, if her husband had become alright then.",
+                "I asked Mrs. Gulyani, my neighbour's wife, if her husband is alright now.",
+                "I asked Mrs. Gulyani, my neighbour's wife, if her husband was alright then."
             ],
             "userAnswer": null,
-            "answer": "To begin a process"
+            "answer": "I asked Mrs. Gulyani, my neighbour's wife, if her husband was alright then."
         },
         {
             "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Dental",
-                "Doubt",
-                "Dictonary",
-                "Drought"
+                "Terrorism",
+                "Alottment",
+                "Borrow",
+                "Allowance"
             ],
             "userAnswer": null,
-            "answer": "Dictonary"
+            "answer": "Alottment"
         },
         {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nOne who supervises in an examination hall",
+            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ in your answer.\n\nThe river appears to have / got its name / from the town nearby.",
             "options": [
-                "Verifier",
-                "Manager",
-                "Invigilator",
-                "Inspector"
-            ],
-            "userAnswer": null,
-            "answer": "Invigilator"
-        },
-        {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\n Censure",
-            "options": [
-                "Applause",
-                "Fault",
-                "Blunder",
-                "Contempt"
-            ],
-            "userAnswer": null,
-            "answer": "Applause"
-        },
-        {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe herd are grazing in the fields far away from the farmer’s hut.",
-            "options": [
-                "The herd is grazed",
-                "No substitution",
-                "The herd has grazing",
-                "The herd is grazing"
-            ],
-            "userAnswer": null,
-            "answer": "The herd is grazing"
-        },
-        {
-            "question": "Select the most appropriate option to fill in the blank.\n\nThe cabinet has ______ a proposal to change the way universities are funded and managed.",
-            "options": [
-                "endorsed",
-                "endangered",
-                "endeared",
-                "evaporated"
-            ],
-            "userAnswer": null,
-            "answer": "endorsed"
-        },
-        {
-            "question": "Select the most appropriate synonym of the given word.\n\nPrinciple",
-            "options": [
-                "Leader",
-                "Axiom",
-                "Headmaster",
-                "Concrete"
-            ],
-            "userAnswer": null,
-            "answer": "Axiom"
-        },
-        {
-            "question": "Select the option that expresses the given sentence in indirect speech.\n\nKamal said, “I have done my work.”",
-            "options": [
-                "Kamal said that he had done his work.",
-                "Kamal said that I have done my work.",
-                "Kamal said I have done my work.",
-                "Kamal said that he has done his work."
-            ],
-            "userAnswer": null,
-            "answer": "Kamal said that he had done his work."
-        },
-        {
-            "question": "Select the most appropriate meaning of the following idiom.\n\nTo pay lip service",
-            "options": [
-                "To make loud statements",
-                "To make loud statements",
-                "To ask for permission",
-                "To be insincere"
-            ],
-            "userAnswer": null,
-            "answer": "To be insincere"
-        },
-        {
-            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n At the last meeting / which took place in November, / half the members submitted / their resignations on protest.",
-            "options": [
-                "their resignations on protest",
-                "half the members submitted",
-                "At the last meeting",
-                "which took place in November"
-            ],
-            "userAnswer": null,
-            "answer": "their resignations on protest"
-        },
-        {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person preoccupied with an unrealistically optimistic approach to life",
-            "options": [
-                "Practical",
-                "Quixotic",
-                "Pragmatic",
-                "Rational"
-            ],
-            "userAnswer": null,
-            "answer": "Quixotic"
-        },
-        {
-            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If there is no error, select ‘No error’ as your answer.\n\nMy brother / who live in Pune / is arriving tomorrow.",
-            "options": [
-                "is arriving tomorrow",
-                "My brother",
                 "No error",
-                "who live in Pune"
+                "got its name",
+                "The river appears to have",
+                "from the town nearby"
             ],
             "userAnswer": null,
-            "answer": "who live in Pune"
+            "answer": "No error"
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo walk on air",
+            "options": [
+                "To feel very depressed",
+                "To be very happy",
+                "To be very rich",
+                "To be completely free"
+            ],
+            "userAnswer": null,
+            "answer": "To be very happy"
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo take a chill pill",
+            "options": [
+                "To ask a doctor for medication",
+                "To calm down",
+                "To be very happy",
+                "To gulp a tablet for a cold"
+            ],
+            "userAnswer": null,
+            "answer": "To calm down"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nPrompt",
+            "options": [
+                "Slow",
+                "Lengthy",
+                "Quick",
+                "Gradual"
+            ],
+            "userAnswer": null,
+            "answer": "Quick"
         },
         {
             "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Adamant",
-                "Adequate",
-                "Adviseable",
-                "Alternate"
+                "Sincere",
+                "Grievance",
+                "Liesure",
+                "Seize"
             ],
             "userAnswer": null,
-            "answer": "Adviseable"
+            "answer": "Liesure"
         },
         {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\nTriumph",
+            "question": "Select the most appropriate option to fill in the blank.\n\n Help from relatives ______ him in difficult times.",
             "options": [
-                "Failure",
-                "Celebration",
-                "Pride",
-                "Joy"
+                "supported",
+                "passed",
+                "approved",
+                "allowed"
             ],
             "userAnswer": null,
-            "answer": "Failure"
+            "answer": "supported"
         },
         {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. He was in the habit of stealing food from others.\nB. One night, the villagers decided to teach him a lesson and kept only rotten food in their kitchen.\nC. The culprit ended up eating the rotten food and fell sick.\nD. Once upon a time, there lived a man in a village.",
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. While India is home to 75 per cent of the tigers in the world, the Global Tiger Day, as it is also known - sees awareness events organised in the country, as well as in neighbouring Bangladesh and Nepal.\nB. Its primary objective is to preserve the natural habitat of the tiger.\nC. International Tiger Day was initiated in 2010, at the Saint Petersburg Tiger Summit.\nD. This annual event observed on 29 July, aims to create awareness on tiger conservation.",
             "options": [
-                "ACDB",
-                "DABC",
                 "BACD",
-                "ABDC"
+                "CDBA",
+                "DCBA",
+                "CABD"
             ],
             "userAnswer": null,
-            "answer": "DABC"
+            "answer": "CDBA"
         },
         {
-            "question": "Select the most appropriate synonym of the given word.\n\nCommence",
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nPutrefy",
             "options": [
-                "Shoot",
-                "Stand",
-                "Stop",
-                "Start"
+                "Destroy",
+                "Contaminate",
+                "Combine",
+                "Decompose"
             ],
             "userAnswer": null,
-            "answer": "Start"
+            "answer": "Combine"
         },
         {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nSunil have been working as a personal assistant to the Director for two years.",
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n The sunrays burned my face.",
             "options": [
-                "is working",
-                "has been working",
-                "has been worked",
-                "No substitution"
+                "My face is burned by the sunrays.",
+                "My face is being burned by the sunrays.",
+                "My face has been burned by the sunrays.",
+                "My face was burned by the sunrays."
             ],
             "userAnswer": null,
-            "answer": "has been working"
+            "answer": "My face was burned by the sunrays."
         },
         {
-            "question": "Select the option that expresses the given sentence in passive voice.\n\n Shiva wrote a letter to the head of the HR Department in response to the advertisement",
-            "options": [
-                "A letter was written by Shiva to the head of the HR department in response to the advertisement",
-                "A letter was written by the head of the HR department to Shiva in response to the advertisement",
-                "A letter was wrote by Shiva to the head of the HR department in response to the advertisement",
-                "A letter had been written by Shiva to the head of the HR department in response to the advertisement"
-            ],
-            "userAnswer": null,
-            "answer": "A letter was written by Shiva to the head of the HR department in response to the advertisement"
-        },
-        {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Indeed, polymers such as regenerated cellulose, which have become familiar household materials under the trade names rayon and nylon, are also made into numerous non-fibre products, ranging from cellophane envelope windows to clear plastic soft-drink bottles.\nB. The chemical compounds from which man-made fibres are produced are known as polymers, a class of compounds characterised by long, chain-like molecules of great size and molecular weight.\nC. As fibres, these materials are prized for their strength, toughness, resistance to heat and mildew, and ability to hold a pressed form.\nD. Many of the polymers that constitute man-made fibres are the same as or similar to compounds that make up plastics, rubbers, adhesives and surface coatings.",
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. “Excellently well,” said she; “we have everything that we want; I have but one prayer, that we may have a heavy storm of rain to water our plants.”\nB. A man who had two daughters married one to a gardener and the other to a potter.\nC. Off he went to the potter's home and asked his other daughter how matters were with her.\nD. After a while he paid a visit to the gardener's home and asked his daughter how she was, and how it fared with her.",
             "options": [
                 "BDAC",
-                "ACDB",
-                "ACDB",
-                "BCDA"
+                "BCDA",
+                "DCAB",
+                "ACDB"
             ],
             "userAnswer": null,
-            "answer": "BCDA"
+            "answer": "BDAC"
         },
         {
-            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number. English vocabulary has (1)______ remarkable range, flexibility and adaptability. Thanks to the periods (2)______ contact with foreign (3)______ and its readiness to (4)______ new words out of old elements, English seems to have far more words in its core (5)______ than othern languages.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "question": "Select the most appropriate synonym of the given word.\n\n Dedicated",
             "options": [
-                "the",
-                "one",
-                "an",
-                "a"
+                "Tedious",
+                "Committed",
+                "Dreary",
+                "Boring"
             ],
             "userAnswer": null,
-            "answer": "a"
+            "answer": "Boring"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nHope",
+            "options": [
+                "Chance",
+                "Courage",
+                "Optimism",
+                "Doubt"
+            ],
+            "userAnswer": null,
+            "answer": "Doubt"
+        },
+        {
+            "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\n\nThe woodcutter felled / some trees / with hardly / many effort at all.",
+            "options": [
+                "some trees",
+                "with hardly",
+                "The woodcutter felled",
+                "many effort at all"
+            ],
+            "userAnswer": null,
+            "answer": "many effort at all"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe interviewer asked Gautam, “Can you tell me what your ______ in life are?”",
+            "options": [
+                "trivialities",
+                "aspirations",
+                "aspirations",
+                "frivolities"
+            ],
+            "userAnswer": null,
+            "answer": "frivolities"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA self-governing country or region",
+            "options": [
+                "Autonomy",
+                "Democracy",
+                "Anarchy",
+                "Monarchy"
+            ],
+            "userAnswer": null,
+            "answer": "Autonomy"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A place where coins, medals or tokens are made",
+            "options": [
+                "Workshop",
+                "Casting",
+                "Mill",
+                "Mint"
+            ],
+            "userAnswer": null,
+            "answer": "Mint"
+        },
+        {
+            "question": "Select the option that will improve the underlined part of the given sentence. In case     no improvement is needed select ‘No improvement required’.\n\nFierce competition against restaurants has driven up the prices.",
+            "options": [
+                "No improvement required",
+                "among",
+                "along",
+                "through"
+            ],
+            "userAnswer": null,
+            "answer": "among"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nCommunication is a connection between people sharing information with (1)______ other. It is important in everyday life, (2)______ work and nearly any time you interact with other (3)______. Communication issues don’t always happen (4)______ of your English level. The truth is, you can know how to speak English (5)______ knowing how to communicate in English.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "every",
+                "one",
+                "each",
+                "some"
+            ],
+            "userAnswer": null,
+            "answer": "each"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 2.",
             "options": [
+                "from",
+                "while",
                 "on",
-                "of",
-                "to",
                 "at"
             ],
             "userAnswer": null,
-            "answer": "of"
+            "answer": "at"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 3.",
             "options": [
-                "currencies",
-                "languages",
-                "mathematics",
-                "science"
+                "animals",
+                "creatures",
+                "ones",
+                "people"
             ],
             "userAnswer": null,
-            "answer": "languages"
+            "answer": "people"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 4.",
             "options": [
-                "think",
-                "shed",
-                "discard",
-                "coin"
+                "about",
+                "beside",
+                "because",
+                "since"
             ],
             "userAnswer": null,
-            "answer": "coin"
+            "answer": "because"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 5.",
             "options": [
-                "catalogue",
-                "selection",
-                "inventory",
-                "vocabulary"
+                "lacking",
+                "without",
+                "devoid",
+                "minus"
             ],
             "userAnswer": null,
-            "answer": "vocabulary"
+            "answer": "without"
         }
     ]
 }
