@@ -1,6 +1,6 @@
 {
     "type": "English",
-    "fileName": "English-Test-05",
+    "fileName": "English-Test-06",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -13,279 +13,279 @@
     "isSubmitted": false,
     "questions": [
         {
-            "question": "Select the most appropriate option to fill in the blank.\n\nCan you ______ between these two shades of green?",
+            "question": "Select the most appropriate synonym of the given word.\n\nBanner",
             "options": [
-                "distinguish",
-                "distract",
-                "divert",
-                "detect"
+                "March",
+                "Rally",
+                "Protest",
+                "Poster"
             ],
             "userAnswer": null,
-            "answer": "distinguish"
+            "answer": "Poster"
         },
         {
-            "question": "Select the option that expresses the given sentence in indirect speech.\n\n“Alas, I have broken my brother’s watch!” said he.",
+            "question": "Select the most appropriate meaning of the given idiom.\n\nOn cloud nine",
             "options": [
-                "He exclaimed with sorrow that he had broken his brother’s watch",
-                "He exclaimed with sorrow I have broken my brother’s watch.",
-                "He exclaimed with sorrow that he may have broken his brother’s watch.",
-                "He exclaimed with sorrow that he has broken his brother’s watch."
+                "Extremely happy",
+                "Flying with a parachute",
+                "Extremely sad",
+                "Frequently flying by air"
             ],
             "userAnswer": null,
-            "answer": "He exclaimed with sorrow that he had broken his brother’s watch"
+            "answer": "Extremely happy"
         },
         {
-            "question": "Select the INCORRECTLY spelt word.",
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nFecund",
             "options": [
-                "Barricade",
-                "Infection",
-                "Preshious",
-                "Innovation"
+                "Genial",
+                "Polite",
+                "Rude",
+                "Barren"
             ],
             "userAnswer": null,
-            "answer": "Preshious"
+            "answer": "Barren"
         },
         {
-            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nThe concept became / too much clear to me / after my tutor / showed me the diagram.",
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n The state of being subject to death",
             "options": [
-                "after my tutor",
-                "too much clear to me",
-                "The concept became",
-                "showed me the diagram"
+                "Mortality",
+                "Deadly",
+                "Morbidity",
+                "Immortality"
             ],
             "userAnswer": null,
-            "answer": "too much clear to me"
+            "answer": "Mortality"
         },
         {
-            "question": "Select the most appropriate meaning of the following idiom.\n\nTo be light years away",
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\n The counter clerk asked the visitor, “What is your name?”",
             "options": [
-                "When something seems like it is about to happen in the near future",
-                "An extremely long time from now in the past or future",
-                "An unlikely event that happened suddenly",
-                "To be too distant for human beings to reach"
+                "The counter clerk asks the visitor your name.",
+                "The counter clerk has asked the visitor his name.",
+                "The counter clerk is asking the visitor your name.",
+                "The counter clerk asked the visitor his name."
             ],
             "userAnswer": null,
-            "answer": "To be too distant for human beings to reach"
+            "answer": "The counter clerk asked the visitor his name."
         },
         {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A person who entertains people by doing difficult feats",
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nWhat were the examples that the writer gave to proved his point?",
             "options": [
-                "Acrobat",
-                "Cosmonaut",
-                "Astronaut",
-                "Performer comedian"
-            ],
-            "userAnswer": null,
-            "answer": "Acrobat"
-        },
-        {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe warden punished the students who violates the rules of the hostel.",
-            "options": [
-                "who violated",
                 "No substitution",
-                "who are violate",
-                "who is violating"
+                "given to prove his point",
+                "give for proving his point",
+                "gave to prove his point"
             ],
             "userAnswer": null,
-            "answer": "who violated"
+            "answer": "gave to prove his point"
         },
         {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\nObese",
+            "question": "SSelect the most appropriate option to fill in the blank.\n\nThe government has hardened its ______ against the agitators and imposed a curfew in the area.",
             "options": [
-                "Greasy",
-                "Large",
-                "Slim",
-                "Stout"
+                "bearing",
+                "orientation",
+                "stance",
+                "manner"
             ],
             "userAnswer": null,
-            "answer": "Slim"
+            "answer": "stance"
         },
         {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Though they had never ever heard Subha utter their names, they unfailingly recognized her footsteps as she came into their shed.\n B. They even understood the precious moments between them as she loved and cuddled them, scolded them, and pleaded to them.\n C. Subha did really have a close circle of friends and companions; they were Sarbasi and Panguli, the two cows living in their cow-shed.\n D. They understood the silent, melancholy tune of her unspoken words during those moments, and the intensity of her expressions more easily than the spoken language of other humans.",
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nHarmony",
             "options": [
-                "DABC",
-                "CADB",
+                "Rapport",
+                "Peace",
+                "Hatred",
+                "Friendship"
+            ],
+            "userAnswer": null,
+            "answer": "Hatred"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. Inspector: “Were you sleeping when the robbers entered the bank?”\nB. Guard: “The iron grill lock was broken and the bank looked ransacked but the robbers could not take away anything as I had returned quickly.”\nC. Inspector: “What did you see when you came back?”\nD. Guard: “No Sir. The bank had closed and I had just gone to relieve myself.”",
+            "options": [
+                "ADCB",
+                "ABCD",
                 "CBDA",
-                "ADBC"
+                "BADC"
             ],
             "userAnswer": null,
-            "answer": "CADB"
+            "answer": "ADCB"
         },
         {
-            "question": "Select the most appropriate meaning of the following idiom.\n\nA fish out of water",
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n The army / marched fearless / towards / the enemy cantonment.",
             "options": [
-                "Feel uncomfortable in unfamiliar surroundings",
-                "Feel like going to an unfamiliar and new place",
-                "Feel comfortable in any kind of place",
-                "Feel as if you are unable to breathe"
+                "the enemy cantonment",
+                "marched fearless",
+                "towards",
+                "The army"
             ],
             "userAnswer": null,
-            "answer": "Feel uncomfortable in unfamiliar surroundings"
+            "answer": "marched fearless"
         },
         {
-            "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\nMr. Rao asked the newcomer / to his office / if he will minded / working late that day.",
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nSeveral prominent film stars / have appeared on television / on behalf of awareness / about hand hygiene.",
             "options": [
-                "working late that day",
-                "if he will minded",
-                "to his office",
-                "Mr. Rao asked the newcomer"
+                "have appeared on television",
+                "about hand hygiene",
+                "Several prominent film stars",
+                "on behalf of awareness"
             ],
             "userAnswer": null,
-            "answer": "if he will minded"
+            "answer": "on behalf of awareness"
         },
         {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\n The minister, along with his team members, is expected to arrive shortly.",
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A musical composition made up of a series of songs or short pieces",
             "options": [
-                "are expect to arrive",
-                "are expected to arrive",
-                "No substitution",
-                "are being expected to arrive"
+                "Lyric",
+                "Band",
+                "Medley",
+                "Orchestra"
             ],
             "userAnswer": null,
-            "answer": "No substitution"
+            "answer": "Medley"
         },
         {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA secret or disguised way of writing",
+            "question": "Select the most appropriate synonym of the given word.\n\nAbsolve",
             "options": [
-                "Cypher",
-                "Emblem",
-                "Symbol",
-                "Puzzle"
+                "Pardon",
+                "Attack",
+                "Accuse",
+                "Condemn"
             ],
             "userAnswer": null,
-            "answer": "Cypher"
+            "answer": "Pardon"
         },
         {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. A fox, hearing the cock and thinking to make a meal of him, came and stood under the tree.\nB. As the night passed away and the day dawned, the cock, according to his custom, set up a shrill crowing.\nC. A dog and a cock having struck up an acquaintance went out on their travels together.\nD. Nightfall found them in a forest, so the cock, flying up on a tree, perched among the branches, while the dog dozed below at the foot.",
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n He gave Kaveri a beautiful yellow dress.",
             "options": [
-                "DCAB",
-                "CDBA",
-                "CABD",
-                "BCDA"
+                "Kaveri has given a beautiful yellow dress by him",
+                "Kaveri was given a beautiful yellow dress by him",
+                "Kaveri has been given a beautiful yellow dress by him",
+                "Kaveri is given a beautiful yellow dress by him"
             ],
             "userAnswer": null,
-            "answer": "CDBA"
+            "answer": "Kaveri was given a beautiful yellow dress by him"
         },
         {
             "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Detective",
-                "Priority",
-                "Vacine",
-                "Evidence"
+                "Refurbish",
+                "Sanctity",
+                "Esscalator",
+                "Automated"
             ],
             "userAnswer": null,
-            "answer": "Vacine"
+            "answer": "Esscalator"
         },
         {
-            "question": "Select the most appropriate synonym of the given word.\n\nBang",
+            "question": "Select the most appropriate meaning of the given idiom.\n\nDraw the line at something",
             "options": [
-                "Sang",
-                "Rang",
-                "Beat",
-                "Ride"
+                "Agreeing to an idea",
+                "Coming to a conclusion",
+                "Accept something up to a particular point",
+                "Making pencil sketches"
             ],
             "userAnswer": null,
-            "answer": "Beat"
+            "answer": "Accept something up to a particular point"
         },
         {
-            "question": "Select the most appropriate option to fill in the blank.\n\nIf you ______ to newsgroups, you often get hundreds of messages.",
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nIf you are not able to go out, did not worry.",
             "options": [
-                "offend",
-                "describe",
-                "practice",
-                "subscribe"
+                "No substitution",
+                "don't worried",
+                "do not worry",
+                "worrying not"
             ],
             "userAnswer": null,
-            "answer": "subscribe"
+            "answer": "do not worry"
         },
         {
-            "question": "Select the most appropriate synonym of the given word.\n\nPonder",
+            "question": "Select the most appropriate option to fill in the blank.\n\n We are bewildered by the power which science has suddenly placed in our laps, and we are ______ by the realisation of our unpreparedness to deal with a crisis.",
             "options": [
-                "Terminate",
-                "Celebrate",
-                "Agitate",
-                "Meditate"
+                "humbled",
+                "demeaned",
+                "condemned",
+                "proud"
             ],
             "userAnswer": null,
-            "answer": "Meditate"
+            "answer": "humbled"
         },
         {
-            "question": "Select the option that expresses the given sentence in passive voice.\n\n The spider on the wall frightened Jiya.",
+            "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Jiya had been frightened of the spider on the wall.",
-                "The spider on the wall was frightened by Jiya",
-                "Jiya has been frightened by the spider on the wall",
-                "Jiya was frightened by the spider on the wall."
+                "Elite",
+                "Secrete",
+                "Concrete",
+                "Petete"
             ],
             "userAnswer": null,
-            "answer": "Jiya was frightened by the spider on the wall."
+            "answer": "Petete"
         },
         {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\nExpunge",
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Information Communication Technology tools have brought in additional changes along with means of communication.\n B. These changes have enabled man to communicate faster.\n C. Communication has not only become faster but easier too.\nD. The result is a more relaxed life than ever before",
             "options": [
-                "Wipe",
-                "Add",
-                "Draw",
-                "Omit"
+                "DBCA",
+                "CDBA",
+                "ABDC",
+                "ABCD"
             ],
             "userAnswer": null,
-            "answer": "Add"
+            "answer": "ABCD"
         },
         {
-            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. Essaouira's origins stretch back to prehistoric times, and this spot on Morocco's Atlantic coast (1)______ a centre of culture and commerce ever since. (2)______ centuries, the harbour town was an important trading post (3)______ both a seaport and as the north-western terminus of a caravan (4)______ stretching across the desert to Timbuktu (5)______ Africa’s interior\n\nSelect the most appropriate option to fill in blank number 1.",
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nAlmost everyone in the present world is familiar with the term ‘Global Warming’. It (1)______ to the gradual rise in the overall temperature of the atmosphere (2)______ the planet Earth. It is true that there are (3)______ activities taking place which have been increasing the temperature (4)______. The first impact of global warming is melting of (5)______ in a rapid way. This is extremely harmful to the earth as well as to its inhabitants.\n\nSelect the most appropriate option to fill in blank number 1.",
             "options": [
-                "been",
-                "has been",
-                "had been",
-                "have been"
+                "means",
+                "refers",
+                "connects",
+                "seems"
             ],
             "userAnswer": null,
-            "answer": "has been"
+            "answer": "refers"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 2.",
             "options": [
+                "on",
+                "of",
                 "in",
-                "above",
-                "for",
                 "at"
             ],
             "userAnswer": null,
-            "answer": "for"
+            "answer": "of"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 3.",
             "options": [
-                "at",
-                "from",
-                "by",
-                "as"
+                "useful",
+                "sudden",
+                "separate",
+                "several"
             ],
             "userAnswer": null,
-            "answer": "as"
+            "answer": "several"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 4.",
             "options": [
-                "way",
-                "highway",
-                "direction",
-                "route"
+                "frequently",
+                "gradually",
+                "purposely",
+                "properly"
             ],
             "userAnswer": null,
-            "answer": "route"
+            "answer": "gradually"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 5.",
             "options": [
-                "above",
-                "on",
-                "over",
-                "in"
+                "mountains",
+                "glaciers",
+                "rivers",
+                "lakes"
             ],
             "userAnswer": null,
-            "answer": "in"
+            "answer": "glaciers"
         }
     ]
 }
