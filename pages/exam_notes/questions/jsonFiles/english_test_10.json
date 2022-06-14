@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-10",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the most appropriate option to fill in the blank.\n\n Researchers have found that 16 facial expressions ______ universally in similar contexts across 12 world regions.",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "strike",
+                "transpire",
+                "occur",
+                "befall"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "occur"
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo get the ball rolling",
+            "options": [
+                "To play a ball game well",
+                "To keep working until late",
+                "To begin a process",
+                "To match an opponent"
+            ],
+            "userAnswer": null,
+            "answer": "To begin a process"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Dental",
+                "Doubt",
+                "Dictonary",
+                "Drought"
+            ],
+            "userAnswer": null,
+            "answer": "Dictonary"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nOne who supervises in an examination hall",
+            "options": [
+                "Verifier",
+                "Manager",
+                "Invigilator",
+                "Inspector"
+            ],
+            "userAnswer": null,
+            "answer": "Invigilator"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\n Censure",
+            "options": [
+                "Applause",
+                "Fault",
+                "Blunder",
+                "Contempt"
+            ],
+            "userAnswer": null,
+            "answer": "Applause"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe herd are grazing in the fields far away from the farmer’s hut.",
+            "options": [
+                "The herd is grazed",
+                "No substitution",
+                "The herd has grazing",
+                "The herd is grazing"
+            ],
+            "userAnswer": null,
+            "answer": "The herd is grazing"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe cabinet has ______ a proposal to change the way universities are funded and managed.",
+            "options": [
+                "endorsed",
+                "endangered",
+                "endeared",
+                "evaporated"
+            ],
+            "userAnswer": null,
+            "answer": "endorsed"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nPrinciple",
+            "options": [
+                "Leader",
+                "Axiom",
+                "Headmaster",
+                "Concrete"
+            ],
+            "userAnswer": null,
+            "answer": "Axiom"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\nKamal said, “I have done my work.”",
+            "options": [
+                "Kamal said that he had done his work.",
+                "Kamal said that I have done my work.",
+                "Kamal said I have done my work.",
+                "Kamal said that he has done his work."
+            ],
+            "userAnswer": null,
+            "answer": "Kamal said that he had done his work."
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo pay lip service",
+            "options": [
+                "To make loud statements",
+                "To make loud statements",
+                "To ask for permission",
+                "To be insincere"
+            ],
+            "userAnswer": null,
+            "answer": "To be insincere"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n At the last meeting / which took place in November, / half the members submitted / their resignations on protest.",
+            "options": [
+                "their resignations on protest",
+                "half the members submitted",
+                "At the last meeting",
+                "which took place in November"
+            ],
+            "userAnswer": null,
+            "answer": "their resignations on protest"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person preoccupied with an unrealistically optimistic approach to life",
+            "options": [
+                "Practical",
+                "Quixotic",
+                "Pragmatic",
+                "Rational"
+            ],
+            "userAnswer": null,
+            "answer": "Quixotic"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If there is no error, select ‘No error’ as your answer.\n\nMy brother / who live in Pune / is arriving tomorrow.",
+            "options": [
+                "is arriving tomorrow",
+                "My brother",
+                "No error",
+                "who live in Pune"
+            ],
+            "userAnswer": null,
+            "answer": "who live in Pune"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Adamant",
+                "Adequate",
+                "Adviseable",
+                "Alternate"
+            ],
+            "userAnswer": null,
+            "answer": "Adviseable"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nTriumph",
+            "options": [
+                "Failure",
+                "Celebration",
+                "Pride",
+                "Joy"
+            ],
+            "userAnswer": null,
+            "answer": "Failure"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. He was in the habit of stealing food from others.\nB. One night, the villagers decided to teach him a lesson and kept only rotten food in their kitchen.\nC. The culprit ended up eating the rotten food and fell sick.\nD. Once upon a time, there lived a man in a village.",
+            "options": [
+                "ACDB",
+                "DABC",
+                "BACD",
+                "ABDC"
+            ],
+            "userAnswer": null,
+            "answer": "DABC"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nCommence",
+            "options": [
+                "Shoot",
+                "Stand",
+                "Stop",
+                "Start"
+            ],
+            "userAnswer": null,
+            "answer": "Start"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nSunil have been working as a personal assistant to the Director for two years.",
+            "options": [
+                "is working",
+                "has been working",
+                "has been worked",
+                "No substitution"
+            ],
+            "userAnswer": null,
+            "answer": "has been working"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n Shiva wrote a letter to the head of the HR Department in response to the advertisement",
+            "options": [
+                "A letter was written by Shiva to the head of the HR department in response to the advertisement",
+                "A letter was written by the head of the HR department to Shiva in response to the advertisement",
+                "A letter was wrote by Shiva to the head of the HR department in response to the advertisement",
+                "A letter had been written by Shiva to the head of the HR department in response to the advertisement"
+            ],
+            "userAnswer": null,
+            "answer": "A letter was written by Shiva to the head of the HR department in response to the advertisement"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Indeed, polymers such as regenerated cellulose, which have become familiar household materials under the trade names rayon and nylon, are also made into numerous non-fibre products, ranging from cellophane envelope windows to clear plastic soft-drink bottles.\nB. The chemical compounds from which man-made fibres are produced are known as polymers, a class of compounds characterised by long, chain-like molecules of great size and molecular weight.\nC. As fibres, these materials are prized for their strength, toughness, resistance to heat and mildew, and ability to hold a pressed form.\nD. Many of the polymers that constitute man-made fibres are the same as or similar to compounds that make up plastics, rubbers, adhesives and surface coatings.",
+            "options": [
+                "BDAC",
+                "ACDB",
+                "ACDB",
+                "BCDA"
+            ],
+            "userAnswer": null,
+            "answer": "BCDA"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number. English vocabulary has (1)______ remarkable range, flexibility and adaptability. Thanks to the periods (2)______ contact with foreign (3)______ and its readiness to (4)______ new words out of old elements, English seems to have far more words in its core (5)______ than othern languages.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "the",
+                "one",
+                "an",
+                "a"
+            ],
+            "userAnswer": null,
+            "answer": "a"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "on",
+                "of",
+                "to",
+                "at"
+            ],
+            "userAnswer": null,
+            "answer": "of"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "currencies",
+                "languages",
+                "mathematics",
+                "science"
+            ],
+            "userAnswer": null,
+            "answer": "languages"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "think",
+                "shed",
+                "discard",
+                "coin"
+            ],
+            "userAnswer": null,
+            "answer": "coin"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "catalogue",
+                "selection",
+                "inventory",
+                "vocabulary"
+            ],
+            "userAnswer": null,
+            "answer": "vocabulary"
         }
     ]
 }

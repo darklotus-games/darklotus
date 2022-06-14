@@ -13,242 +13,242 @@
     "isSubmitted": false,
     "questions": [
         {
-            "question": "Select the most appropriate synonym of the given word.\n\nBanner",
+            "question": "Select the most appropriate option to fill in the blank.\n\n Researchers have found that 16 facial expressions ______ universally in similar contexts across 12 world regions.",
             "options": [
-                "March",
-                "Rally",
-                "Protest",
-                "Poster"
+                "strike",
+                "transpire",
+                "occur",
+                "befall"
             ],
             "userAnswer": null,
-            "answer": "Poster"
+            "answer": "occur"
         },
         {
-            "question": "Select the most appropriate meaning of the given idiom.\n\nOn cloud nine",
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo get the ball rolling",
             "options": [
-                "Extremely happy",
-                "Flying with a parachute",
-                "Extremely sad",
-                "Frequently flying by air"
+                "To play a ball game well",
+                "To keep working until late",
+                "To begin a process",
+                "To match an opponent"
             ],
             "userAnswer": null,
-            "answer": "Extremely happy"
-        },
-        {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\nFecund",
-            "options": [
-                "Genial",
-                "Polite",
-                "Rude",
-                "Barren"
-            ],
-            "userAnswer": null,
-            "answer": "Barren"
-        },
-        {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n The state of being subject to death",
-            "options": [
-                "Mortality",
-                "Deadly",
-                "Morbidity",
-                "Immortality"
-            ],
-            "userAnswer": null,
-            "answer": "Mortality"
-        },
-        {
-            "question": "Select the option that expresses the given sentence in indirect speech.\n\n The counter clerk asked the visitor, “What is your name?”",
-            "options": [
-                "The counter clerk asks the visitor your name.",
-                "The counter clerk has asked the visitor his name.",
-                "The counter clerk is asking the visitor your name.",
-                "The counter clerk asked the visitor his name."
-            ],
-            "userAnswer": null,
-            "answer": "The counter clerk asked the visitor his name."
-        },
-        {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nWhat were the examples that the writer gave to proved his point?",
-            "options": [
-                "No substitution",
-                "given to prove his point",
-                "give for proving his point",
-                "gave to prove his point"
-            ],
-            "userAnswer": null,
-            "answer": "gave to prove his point"
-        },
-        {
-            "question": "SSelect the most appropriate option to fill in the blank.\n\nThe government has hardened its ______ against the agitators and imposed a curfew in the area.",
-            "options": [
-                "bearing",
-                "orientation",
-                "stance",
-                "manner"
-            ],
-            "userAnswer": null,
-            "answer": "stance"
-        },
-        {
-            "question": "Select the most appropriate ANTONYM of the given word.\n\nHarmony",
-            "options": [
-                "Rapport",
-                "Peace",
-                "Hatred",
-                "Friendship"
-            ],
-            "userAnswer": null,
-            "answer": "Hatred"
-        },
-        {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. Inspector: “Were you sleeping when the robbers entered the bank?”\nB. Guard: “The iron grill lock was broken and the bank looked ransacked but the robbers could not take away anything as I had returned quickly.”\nC. Inspector: “What did you see when you came back?”\nD. Guard: “No Sir. The bank had closed and I had just gone to relieve myself.”",
-            "options": [
-                "ADCB",
-                "ABCD",
-                "CBDA",
-                "BADC"
-            ],
-            "userAnswer": null,
-            "answer": "ADCB"
-        },
-        {
-            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n The army / marched fearless / towards / the enemy cantonment.",
-            "options": [
-                "the enemy cantonment",
-                "marched fearless",
-                "towards",
-                "The army"
-            ],
-            "userAnswer": null,
-            "answer": "marched fearless"
-        },
-        {
-            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nSeveral prominent film stars / have appeared on television / on behalf of awareness / about hand hygiene.",
-            "options": [
-                "have appeared on television",
-                "about hand hygiene",
-                "Several prominent film stars",
-                "on behalf of awareness"
-            ],
-            "userAnswer": null,
-            "answer": "on behalf of awareness"
-        },
-        {
-            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A musical composition made up of a series of songs or short pieces",
-            "options": [
-                "Lyric",
-                "Band",
-                "Medley",
-                "Orchestra"
-            ],
-            "userAnswer": null,
-            "answer": "Medley"
-        },
-        {
-            "question": "Select the most appropriate synonym of the given word.\n\nAbsolve",
-            "options": [
-                "Pardon",
-                "Attack",
-                "Accuse",
-                "Condemn"
-            ],
-            "userAnswer": null,
-            "answer": "Pardon"
-        },
-        {
-            "question": "Select the option that expresses the given sentence in passive voice.\n\n He gave Kaveri a beautiful yellow dress.",
-            "options": [
-                "Kaveri has given a beautiful yellow dress by him",
-                "Kaveri was given a beautiful yellow dress by him",
-                "Kaveri has been given a beautiful yellow dress by him",
-                "Kaveri is given a beautiful yellow dress by him"
-            ],
-            "userAnswer": null,
-            "answer": "Kaveri was given a beautiful yellow dress by him"
+            "answer": "To begin a process"
         },
         {
             "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Refurbish",
-                "Sanctity",
-                "Esscalator",
-                "Automated"
+                "Dental",
+                "Doubt",
+                "Dictonary",
+                "Drought"
             ],
             "userAnswer": null,
-            "answer": "Esscalator"
+            "answer": "Dictonary"
         },
         {
-            "question": "Select the most appropriate meaning of the given idiom.\n\nDraw the line at something",
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nOne who supervises in an examination hall",
             "options": [
-                "Agreeing to an idea",
-                "Coming to a conclusion",
-                "Accept something up to a particular point",
-                "Making pencil sketches"
+                "Verifier",
+                "Manager",
+                "Invigilator",
+                "Inspector"
             ],
             "userAnswer": null,
-            "answer": "Accept something up to a particular point"
+            "answer": "Invigilator"
         },
         {
-            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nIf you are not able to go out, did not worry.",
+            "question": "Select the most appropriate ANTONYM of the given word.\n\n Censure",
             "options": [
+                "Applause",
+                "Fault",
+                "Blunder",
+                "Contempt"
+            ],
+            "userAnswer": null,
+            "answer": "Applause"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe herd are grazing in the fields far away from the farmer’s hut.",
+            "options": [
+                "The herd is grazed",
                 "No substitution",
-                "don't worried",
-                "do not worry",
-                "worrying not"
+                "The herd has grazing",
+                "The herd is grazing"
             ],
             "userAnswer": null,
-            "answer": "do not worry"
+            "answer": "The herd is grazing"
         },
         {
-            "question": "Select the most appropriate option to fill in the blank.\n\n We are bewildered by the power which science has suddenly placed in our laps, and we are ______ by the realisation of our unpreparedness to deal with a crisis.",
+            "question": "Select the most appropriate option to fill in the blank.\n\nThe cabinet has ______ a proposal to change the way universities are funded and managed.",
             "options": [
-                "humbled",
-                "demeaned",
-                "condemned",
-                "proud"
+                "endorsed",
+                "endangered",
+                "endeared",
+                "evaporated"
             ],
             "userAnswer": null,
-            "answer": "humbled"
+            "answer": "endorsed"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nPrinciple",
+            "options": [
+                "Leader",
+                "Axiom",
+                "Headmaster",
+                "Concrete"
+            ],
+            "userAnswer": null,
+            "answer": "Axiom"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\nKamal said, “I have done my work.”",
+            "options": [
+                "Kamal said that he had done his work.",
+                "Kamal said that I have done my work.",
+                "Kamal said I have done my work.",
+                "Kamal said that he has done his work."
+            ],
+            "userAnswer": null,
+            "answer": "Kamal said that he had done his work."
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo pay lip service",
+            "options": [
+                "To make loud statements",
+                "To make loud statements",
+                "To ask for permission",
+                "To be insincere"
+            ],
+            "userAnswer": null,
+            "answer": "To be insincere"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\n At the last meeting / which took place in November, / half the members submitted / their resignations on protest.",
+            "options": [
+                "their resignations on protest",
+                "half the members submitted",
+                "At the last meeting",
+                "which took place in November"
+            ],
+            "userAnswer": null,
+            "answer": "their resignations on protest"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person preoccupied with an unrealistically optimistic approach to life",
+            "options": [
+                "Practical",
+                "Quixotic",
+                "Pragmatic",
+                "Rational"
+            ],
+            "userAnswer": null,
+            "answer": "Quixotic"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If there is no error, select ‘No error’ as your answer.\n\nMy brother / who live in Pune / is arriving tomorrow.",
+            "options": [
+                "is arriving tomorrow",
+                "My brother",
+                "No error",
+                "who live in Pune"
+            ],
+            "userAnswer": null,
+            "answer": "who live in Pune"
         },
         {
             "question": "Select the INCORRECTLY spelt word.",
             "options": [
-                "Elite",
-                "Secrete",
-                "Concrete",
-                "Petete"
+                "Adamant",
+                "Adequate",
+                "Adviseable",
+                "Alternate"
             ],
             "userAnswer": null,
-            "answer": "Petete"
+            "answer": "Adviseable"
         },
         {
-            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Information Communication Technology tools have brought in additional changes along with means of communication.\n B. These changes have enabled man to communicate faster.\n C. Communication has not only become faster but easier too.\nD. The result is a more relaxed life than ever before",
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nTriumph",
             "options": [
-                "DBCA",
-                "CDBA",
-                "ABDC",
-                "ABCD"
+                "Failure",
+                "Celebration",
+                "Pride",
+                "Joy"
             ],
             "userAnswer": null,
-            "answer": "Add"
+            "answer": "Failure"
         },
         {
-            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.\n\nAlmost everyone in the present world is familiar with the term ‘Global Warming’. It (1)______ to the gradual rise in the overall temperature of the atmosphere (2)______ the planet Earth. It is true that there are (3)______ activities taking place which have been increasing the temperature (4)______. The first impact of global warming is melting of (5)______ in a rapid way. This is extremely harmful to the earth as well as to its inhabitants.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. He was in the habit of stealing food from others.\nB. One night, the villagers decided to teach him a lesson and kept only rotten food in their kitchen.\nC. The culprit ended up eating the rotten food and fell sick.\nD. Once upon a time, there lived a man in a village.",
             "options": [
-                "means",
-                "refers",
-                "connects",
-                "seems"
+                "ACDB",
+                "DABC",
+                "BACD",
+                "ABDC"
             ],
             "userAnswer": null,
-            "answer": "refers"
+            "answer": "DABC"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nCommence",
+            "options": [
+                "Shoot",
+                "Stand",
+                "Stop",
+                "Start"
+            ],
+            "userAnswer": null,
+            "answer": "Start"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nSunil have been working as a personal assistant to the Director for two years.",
+            "options": [
+                "is working",
+                "has been working",
+                "has been worked",
+                "No substitution"
+            ],
+            "userAnswer": null,
+            "answer": "has been working"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n Shiva wrote a letter to the head of the HR Department in response to the advertisement",
+            "options": [
+                "A letter was written by Shiva to the head of the HR department in response to the advertisement",
+                "A letter was written by the head of the HR department to Shiva in response to the advertisement",
+                "A letter was wrote by Shiva to the head of the HR department in response to the advertisement",
+                "A letter had been written by Shiva to the head of the HR department in response to the advertisement"
+            ],
+            "userAnswer": null,
+            "answer": "A letter was written by Shiva to the head of the HR department in response to the advertisement"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Indeed, polymers such as regenerated cellulose, which have become familiar household materials under the trade names rayon and nylon, are also made into numerous non-fibre products, ranging from cellophane envelope windows to clear plastic soft-drink bottles.\nB. The chemical compounds from which man-made fibres are produced are known as polymers, a class of compounds characterised by long, chain-like molecules of great size and molecular weight.\nC. As fibres, these materials are prized for their strength, toughness, resistance to heat and mildew, and ability to hold a pressed form.\nD. Many of the polymers that constitute man-made fibres are the same as or similar to compounds that make up plastics, rubbers, adhesives and surface coatings.",
+            "options": [
+                "BDAC",
+                "ACDB",
+                "ACDB",
+                "BCDA"
+            ],
+            "userAnswer": null,
+            "answer": "BCDA"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number. English vocabulary has (1)______ remarkable range, flexibility and adaptability. Thanks to the periods (2)______ contact with foreign (3)______ and its readiness to (4)______ new words out of old elements, English seems to have far more words in its core (5)______ than othern languages.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "the",
+                "one",
+                "an",
+                "a"
+            ],
+            "userAnswer": null,
+            "answer": "a"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 2.",
             "options": [
                 "on",
                 "of",
-                "in",
+                "to",
                 "at"
             ],
             "userAnswer": null,
@@ -257,35 +257,35 @@
         {
             "question": "Select the most appropriate option to fill in blank number 3.",
             "options": [
-                "useful",
-                "sudden",
-                "separate",
-                "several"
+                "currencies",
+                "languages",
+                "mathematics",
+                "science"
             ],
             "userAnswer": null,
-            "answer": "several"
+            "answer": "languages"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 4.",
             "options": [
-                "frequently",
-                "gradually",
-                "purposely",
-                "properly"
+                "think",
+                "shed",
+                "discard",
+                "coin"
             ],
             "userAnswer": null,
-            "answer": "gradually"
+            "answer": "coin"
         },
         {
             "question": "Select the most appropriate option to fill in blank number 5.",
             "options": [
-                "mountains",
-                "glaciers",
-                "rivers",
-                "lakes"
+                "catalogue",
+                "selection",
+                "inventory",
+                "vocabulary"
             ],
             "userAnswer": null,
-            "answer": "glaciers"
+            "answer": "vocabulary"
         }
     ]
 }

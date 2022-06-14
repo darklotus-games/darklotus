@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-09",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the most appropriate meaning of the given idiom.\n\nTide someone over",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "Get a boat ready to cross a river or water body",
+                "Ask someone for financial assistance",
+                "Complete a voyage successfully",
+                "Give temporary help, usually financial"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "Give temporary help, usually financial"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\n Tag (n)",
+            "options": [
+                "Syphon",
+                "Pump",
+                "Label",
+                "Drain"
+            ],
+            "userAnswer": null,
+            "answer": "Label"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\n Credit card ______ has increased in recent years.",
+            "options": [
+                "fluke",
+                "flake",
+                "fraud",
+                "freed"
+            ],
+            "userAnswer": null,
+            "answer": "fraud"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nAnxiety",
+            "options": [
+                "Restlessness",
+                "Nervousness",
+                "Certainty",
+                "Panic"
+            ],
+            "userAnswer": null,
+            "answer": "Certainty"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Cadre",
+                "Carnivorous",
+                "Commit",
+                "Calender"
+            ],
+            "userAnswer": null,
+            "answer": "Calender"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If there is no error, select ‘No error’.\n\nModern science have / broken many myths / about our food and diet.",
+            "options": [
+                "about our food and diet",
+                "Modern science have",
+                "broken many myths",
+                "No error"
+            ],
+            "userAnswer": null,
+            "answer": "Modern science have"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\n My neighbour was admitted to the hospital when he developed an allergic ______ to some medicine he took.",
+            "options": [
+                "retort",
+                "result",
+                "rejoinder",
+                "reaction"
+            ],
+            "userAnswer": null,
+            "answer": "reaction"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nDetrimental",
+            "options": [
+                "Friendly",
+                "Smart",
+                "Intellectual",
+                "Harmful"
+            ],
+            "userAnswer": null,
+            "answer": "Harmful"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. According to his hypothesis, now known as the neuron theory, each nerve cell communicates with others through contiguity rather than continuity.\n B. The watershed of all studies of the nervous system was an observation made in 1889 by Spanish scientist Santiago Ramón y Cajal.\n C. It has since been proved that Cajal’s theory is not universally true, but his central idea has remained an accurate guiding principle for all further study.\n D. That is, communication between adjacent but separate cells must take place across the space and barriers separating them.",
+            "options": [
+                "CDAB",
+                "BADC",
+                "BCDA",
+                "ADCB"
+            ],
+            "userAnswer": null,
+            "answer": "BADC"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n You can solve this problem",
+            "options": [
+                "This problem ought to be solved by you.",
+                "This problem might be solved by you.",
+                "This problem can be solved by you.",
+                "This problem should be solved by you."
+            ],
+            "userAnswer": null,
+            "answer": "This problem can be solved by you."
+        },
+        {
+            "question": "Select the most appropriate meaning of the given idiom.\n\nA bad egg",
+            "options": [
+                "Someone who doesn't like eggs",
+                "Someone who likes to break eggs",
+                "Someone who regularly makes mistakes",
+                "Someone who is dishonest and unreliable"
+            ],
+            "userAnswer": null,
+            "answer": "Someone who is dishonest and unreliable"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. Dad: “Yes, tell me.”\nB. Laxmi: “Dad, I need to speak to you.”\nC. Dad: “I think you are still too young for it.”\nD. Laxmi: “Please buy me a scooter.”",
+            "options": [
+                "BADC",
+                "BCDA",
+                "ABDC",
+                "DCBA"
+            ],
+            "userAnswer": null,
+            "answer": "BADC"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nBlemish",
+            "options": [
+                "Discolouration",
+                "Stain",
+                "Perfection",
+                "Damage"
+            ],
+            "userAnswer": null,
+            "answer": "Perfection"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nOne who does not believe in the existence of God.",
+            "options": [
+                "Egotist",
+                "Atheist",
+                "Cynic",
+                "Anarchist"
+            ],
+            "userAnswer": null,
+            "answer": "Atheist"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe apple a day keeps the doctor away.",
+            "options": [
+                "A apple a day",
+                "The apples a day",
+                "An apple a day",
+                "No substitution"
+            ],
+            "userAnswer": null,
+            "answer": "An apple a day"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. He was in the habit of stealing food from others.\nB. One night, the villagers decided to teach him a lesson and kept only rotten food in their kitchen.\nC. The culprit ended up eating the rotten food and fell sick.\nD. Once upon a time, there lived a man in a village.",
+            "options": [
+                "ACDB",
+                "DABC",
+                "BACD",
+                "ABDC"
+            ],
+            "userAnswer": null,
+            "answer": "DABC"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nAn arrangement of flowers that is usually given as a present.",
+            "options": [
+                "Bouquet",
+                "Bracket",
+                "Basket",
+                "Boutique"
+            ],
+            "userAnswer": null,
+            "answer": "Bouquet"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nAfter the old building was pulled out, the building contractor surveyed the progress of the work.",
+            "options": [
+                "was pulled down",
+                "No substitution",
+                "was pulled over",
+                "was pulled up"
+            ],
+            "userAnswer": null,
+            "answer": "was pulled down"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nRanbir could not went / to the award ceremony / as he was busy / shooting / for a film / in Maldives.",
+            "options": [
+                "as he was busy",
+                "for a film",
+                "to the award ceremony",
+                "Ranbir could not went"
+            ],
+            "userAnswer": null,
+            "answer": "Ranbir could not went"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Colossal",
+                "Magnificent",
+                "Articulate",
+                "Concensus"
+            ],
+            "userAnswer": null,
+            "answer": "Concensus"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. \n\nThe five senses (1)______ sight, hearing, taste, touch and (2)______. What is sometimes (3)______ to as a ‘sixth sense’ is a power to be aware (4)______ things independently of the five (5)______ senses, a kind of supernatural sense.\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "of",
+                "are",
+                "in",
+                "is"
+            ],
+            "userAnswer": null,
+            "answer": "are"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "happiness",
+                "anger",
+                "sadness",
+                "smell"
+            ],
+            "userAnswer": null,
+            "answer": "smell"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "required",
+                "retained",
+                "reminded",
+                "referred"
+            ],
+            "userAnswer": null,
+            "answer": "referred"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "on",
+                "in",
+                "of",
+                "at"
+            ],
+            "userAnswer": null,
+            "answer": "of"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "geological",
+                "geographical",
+                "botanical",
+                "physical"
+            ],
+            "userAnswer": null,
+            "answer": "physical"
         }
     ]
 }
