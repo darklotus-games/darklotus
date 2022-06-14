@@ -1,6 +1,6 @@
 {
-    "type" : "English",
-    "fileName": "English-Test-01",
+    "type": "English",
+    "fileName": "English-Test-05",
     "yourScore": null,
     "attempted": null,
     "correct": null,
@@ -8,20 +8,284 @@
     "notAttempted": null,
     "total": null,
     "percentage": null,
-    "time": 10,
+    "time": 7,
     "timeTaken": null,
     "isSubmitted": false,
     "questions": [
         {
-            "question": "What is the capital of India?",
+            "question": "Select the most appropriate option to fill in the blank.\n\nCan you ______ between these two shades of green?",
             "options": [
-                "New Delhi",
-                "Mumbai",
-                "Chennai",
-                "Kolkata"
+                "distinguish",
+                "distract",
+                "divert",
+                "detect"
             ],
             "userAnswer": null,
-            "answer": "New Delhi"
+            "answer": "distinguish"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in indirect speech.\n\n“Alas, I have broken my brother’s watch!” said he.",
+            "options": [
+                "He exclaimed with sorrow that he had broken his brother’s watch",
+                "He exclaimed with sorrow I have broken my brother’s watch.",
+                "He exclaimed with sorrow that he may have broken his brother’s watch.",
+                "He exclaimed with sorrow that he has broken his brother’s watch."
+            ],
+            "userAnswer": null,
+            "answer": "He exclaimed with sorrow that he had broken his brother’s watch"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Barricade",
+                "Infection",
+                "Preshious",
+                "Innovation"
+            ],
+            "userAnswer": null,
+            "answer": "Preshious"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nThe concept became / too much clear to me / after my tutor / showed me the diagram.",
+            "options": [
+                "after my tutor",
+                "too much clear to me",
+                "The concept became",
+                "showed me the diagram"
+            ],
+            "userAnswer": null,
+            "answer": "too much clear to me"
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nTo be light years away",
+            "options": [
+                "When something seems like it is about to happen in the near future",
+                "An extremely long time from now in the past or future",
+                "An unlikely event that happened suddenly",
+                "To be too distant for human beings to reach"
+            ],
+            "userAnswer": null,
+            "answer": "To be too distant for human beings to reach"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n A person who entertains people by doing difficult feats",
+            "options": [
+                "Acrobat",
+                "Cosmonaut",
+                "Astronaut",
+                "Performer comedian"
+            ],
+            "userAnswer": null,
+            "answer": "Acrobat"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\nThe warden punished the students who violates the rules of the hostel.",
+            "options": [
+                "who violated",
+                "No substitution",
+                "who are violate",
+                "who is violating"
+            ],
+            "userAnswer": null,
+            "answer": "who violated"
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nObese",
+            "options": [
+                "Greasy",
+                "Large",
+                "Slim",
+                "Stout"
+            ],
+            "userAnswer": null,
+            "answer": "Slim"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\n A. Though they had never ever heard Subha utter their names, they unfailingly recognized her footsteps as she came into their shed.\n B. They even understood the precious moments between them as she loved and cuddled them, scolded them, and pleaded to them.\n C. Subha did really have a close circle of friends and companions; they were Sarbasi and Panguli, the two cows living in their cow-shed.\n D. They understood the silent, melancholy tune of her unspoken words during those moments, and the intensity of her expressions more easily than the spoken language of other humans.",
+            "options": [
+                "DABC",
+                "CADB",
+                "CBDA",
+                "ADBC"
+            ],
+            "userAnswer": null,
+            "answer": "CADB"
+        },
+        {
+            "question": "Select the most appropriate meaning of the following idiom.\n\nA fish out of water",
+            "options": [
+                "Feel uncomfortable in unfamiliar surroundings",
+                "Feel like going to an unfamiliar and new place",
+                "Feel comfortable in any kind of place",
+                "Feel as if you are unable to breathe"
+            ],
+            "userAnswer": null,
+            "answer": "Feel uncomfortable in unfamiliar surroundings"
+        },
+        {
+            "question": "The following sentence has been divided into parts. One of them contains an error.Select the part that contains the error from the given options.\n\nMr. Rao asked the newcomer / to his office / if he will minded / working late that day.",
+            "options": [
+                "working late that day",
+                "if he will minded",
+                "to his office",
+                "Mr. Rao asked the newcomer"
+            ],
+            "userAnswer": null,
+            "answer": "if he will minded"
+        },
+        {
+            "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.\n\n The minister, along with his team members, is expected to arrive shortly.",
+            "options": [
+                "are expect to arrive",
+                "are expected to arrive",
+                "No substitution",
+                "are being expected to arrive"
+            ],
+            "userAnswer": null,
+            "answer": "No substitution"
+        },
+        {
+            "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA secret or disguised way of writing",
+            "options": [
+                "Cypher",
+                "Emblem",
+                "Symbol",
+                "Puzzle"
+            ],
+            "userAnswer": null,
+            "answer": "Cypher"
+        },
+        {
+            "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nA. A fox, hearing the cock and thinking to make a meal of him, came and stood under the tree.\nB. As the night passed away and the day dawned, the cock, according to his custom, set up a shrill crowing.\nC. A dog and a cock having struck up an acquaintance went out on their travels together.\nD. Nightfall found them in a forest, so the cock, flying up on a tree, perched among the branches, while the dog dozed below at the foot.",
+            "options": [
+                "DCAB",
+                "CDBA",
+                "CABD",
+                "BCDA"
+            ],
+            "userAnswer": null,
+            "answer": "CDBA"
+        },
+        {
+            "question": "Select the INCORRECTLY spelt word.",
+            "options": [
+                "Detective",
+                "Priority",
+                "Vacine",
+                "Evidence"
+            ],
+            "userAnswer": null,
+            "answer": "Vacine"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nBang",
+            "options": [
+                "Sang",
+                "Rang",
+                "Beat",
+                "Ride"
+            ],
+            "userAnswer": null,
+            "answer": "Beat"
+        },
+        {
+            "question": "Select the most appropriate option to fill in the blank.\n\nIf you ______ to newsgroups, you often get hundreds of messages.",
+            "options": [
+                "offend",
+                "describe",
+                "practice",
+                "subscribe"
+            ],
+            "userAnswer": null,
+            "answer": "subscribe"
+        },
+        {
+            "question": "Select the most appropriate synonym of the given word.\n\nPonder",
+            "options": [
+                "Terminate",
+                "Celebrate",
+                "Agitate",
+                "Meditate"
+            ],
+            "userAnswer": null,
+            "answer": "Meditate"
+        },
+        {
+            "question": "Select the option that expresses the given sentence in passive voice.\n\n The spider on the wall frightened Jiya.",
+            "options": [
+                "Jiya had been frightened of the spider on the wall.",
+                "The spider on the wall was frightened by Jiya",
+                "Jiya has been frightened by the spider on the wall",
+                "Jiya was frightened by the spider on the wall."
+            ],
+            "userAnswer": null,
+            "answer": "Jiya was frightened by the spider on the wall."
+        },
+        {
+            "question": "Select the most appropriate ANTONYM of the given word.\n\nExpunge",
+            "options": [
+                "Wipe",
+                "Add",
+                "Draw",
+                "Omit"
+            ],
+            "userAnswer": null,
+            "answer": "Add"
+        },
+        {
+            "question": "Questions(21-25) In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. Essaouira's origins stretch back to prehistoric times, and this spot on Morocco's Atlantic coast (1)______ a centre of culture and commerce ever since. (2)______ centuries, the harbour town was an important trading post (3)______ both a seaport and as the north-western terminus of a caravan (4)______ stretching across the desert to Timbuktu (5)______ Africa’s interior\n\nSelect the most appropriate option to fill in blank number 1.",
+            "options": [
+                "been",
+                "has been",
+                "had been",
+                "have been"
+            ],
+            "userAnswer": null,
+            "answer": "has been"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 2.",
+            "options": [
+                "in",
+                "above",
+                "for",
+                "at"
+            ],
+            "userAnswer": null,
+            "answer": "for"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 3.",
+            "options": [
+                "at",
+                "from",
+                "by",
+                "as"
+            ],
+            "userAnswer": null,
+            "answer": "as"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 4.",
+            "options": [
+                "way",
+                "highway",
+                "direction",
+                "route"
+            ],
+            "userAnswer": null,
+            "answer": "route"
+        },
+        {
+            "question": "Select the most appropriate option to fill in blank number 5.",
+            "options": [
+                "above",
+                "on",
+                "over",
+                "in"
+            ],
+            "userAnswer": null,
+            "answer": "in"
         }
     ]
 }
